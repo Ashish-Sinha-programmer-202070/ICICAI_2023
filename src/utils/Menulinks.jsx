@@ -38,9 +38,9 @@ export const menus = [
     children: ["Conference Venue", "Sponsors", "Contact us"],
   },
   {
-    name: "History",
+    name: "Student coordinators",
     link: "#",
-    children: ["ICCCN-2018", "ICIIL-2019"],
+    // children: ["ICCCN-2018", "ICIIL-2019"],
   },
 ];
 

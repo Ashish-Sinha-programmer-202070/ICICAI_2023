@@ -1,15 +1,15 @@
 import React from "react";
 
-import { callForPapers } from "../utils/Data"; 
-import cof from "../assets/cof.jpg"
-import {IoIosPaper} from 'react-icons/io';
+import { callForPapers } from "../utils/Data";
+import cof from "../assets/cof.jpg";
+import { IoIosPaper } from "react-icons/io";
 import PageHeader from "../components/PageHeader";
 
 export default function CallForPapers() {
   return (
     <div>
       <div className="bg-slate-500 w-full ">
-        <PageHeader text={'CALL FOR PAPERS'} />
+        <PageHeader text={"CALL FOR PAPERS"} />
       </div>
       <div className="w-full py-[2rem] text-slate-700">
         <div className="s-wrapper px-4 md:px-0">
@@ -31,12 +31,6 @@ export default function CallForPapers() {
                 researchers and practitioners from both academia as well as
                 industry to meet and share cutting-edge development in the
                 field.
-              </p>
-              <p className="text-rose-600 font-semibold">
-                "The proceedings of the conference will be published in Lecture
-                Notes in Network and Systems, Springer. The proceeding of the
-                conference will be submitted for indexing to ISI Proceedings,
-                MetaPress, Springerlink and Scopus."
               </p>
             </div>
             <div className="hidden md:block">
