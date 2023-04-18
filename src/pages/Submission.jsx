@@ -15,7 +15,6 @@ const SubmissionPage = () => {
               href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICAIOT2023"
             >
               Microsoft CMT : Click here{" "}
-              <span style={{ color: "red" }}>(Paper Submission Closed.)</span>
             </a>
           </li>
           <li>All submissions must be in English only.</li>
@@ -23,7 +22,6 @@ const SubmissionPage = () => {
             Authors are requested to submit implementation paper with
             significant contribution (length more than 12 pages) in PDF using
             the LNCS Springer template. NO Review Paper will be accepted.{" "}
-            <span style={{ color: "red" }}>(Paper Submission Closed.)</span>
           </li>
           <li>
             Author(s) can refer{" "}

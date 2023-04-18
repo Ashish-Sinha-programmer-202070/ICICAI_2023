@@ -26,8 +26,10 @@ export default function Navbar() {
             <Link to="/" className="flex gap-2">
               <img src={cuhLogo} className="h-14" alt="ITTTR Chandingarh" />
               <div className="flex flex-col justify-center">
-                <span className="sm:text-xl font-bold">Central University of Haryana </span>
-                <span className="font-bold">Mahendragarh</span>
+                <span className="sm:text-xl font-bold">
+                  Central University of Haryana{" "}
+                </span>
+                <span className="font-bold">INDIA</span>
               </div>
             </Link>
             <div className="flex gap-2 items-center">
@@ -37,12 +39,12 @@ export default function Navbar() {
                 <Link
                   to="/#"
                   onClick={(e) => {
-                    window.location.href = "mailto:someone@example.com";
+                    window.location.href = "mailto:ICICAI2023@cuh.ac.in";
                     e.preventDefault();
                   }}
                   className="hover:underline"
                 >
-                  helpline@cuh.ac.in
+                  ICICAI2023@cuh.ac.in
                 </Link>
               </div>
             </div>

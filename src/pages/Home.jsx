@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 import banner from "../assets/conbanner.png";
-import { sponsors_img } from '../utils/GraphicContent';
+import { sponsors_img } from "../utils/GraphicContent";
 
 export default function Home() {
   return (
@@ -32,51 +32,74 @@ export default function Home() {
       <div className="bg-white mt-6">
         <div className="s-wrapper grid grid-cols-1 md:gap-10 md:grid-cols-7">
           <div className="col-span-5 px-4 md:px-0">
-            <span className="ml-1">ICICAI</span>
+            <h1 className="text-3xl font-bold">About cuh</h1>
+            <hr />
+            <div className="mt-4 text-justify">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et
+                dolore fugiat veritatis? Fugiat vero, suscipit modi, commodi
+                eum, ullam consequuntur dignissimos aut deserunt ipsum dolore
+                aliquid officiis dicta ipsa quibusdam!
+              </p>
+            </div>
+            <br />
+
+            {/* <span className="ml-1">ICICAI</span> */}
             <h1 className="text-3xl font-bold">Conference</h1>
             <hr />
             <div className="mt-4 text-justify ">
               <p>
-              The International Conference on Innovative Computing and Artificial Intelligence (ICICAI) is a premier conference dedicated to the dissemination of research and development in the field of computing and artificial intelligence. ICICAI brings together researchers, engineers, and practitioners from academia and industry to exchange their ideas and experiences in various aspects of innovative computing and AI.
+                The International Conference on Innovative Computing and
+                Artificial Intelligence (ICICAI) is a premier conference
+                dedicated to the dissemination of research and development in
+                the field of computing and artificial intelligence. ICICAI
+                brings together researchers, engineers, and practitioners from
+                academia and industry to exchange their ideas and experiences in
+                various aspects of innovative computing and AI.
               </p>
               <br />
               <p>
-              The conference covers a broad range of topics, including but not limited to:
-                <ul style={{ listStyleType: 'disc', marginLeft: '50px' }}>
-                  <li>Machine learning and deep learning</li>
-                  <li>Natural language processing and text mining</li>
-                  <li>Computer vision and image processing</li>
-                  <li>Robotics and automation</li>
-                  <li>Intelligent systems and decision support systems</li>
-                  <li>Data mining and knowledge discovery</li>
-                  <li>Cloud and edge computing</li>
-                  <li>Internet of things (IoT) and cyber-physical systems</li>
-                  <li>Human-computer interaction and user experience</li>
-                  <li>Security and privacy in computing and AI</li>
+                The conference covers a broad range of topics, including but not
+                limited to:
+              </p>
+              <ul style={{ listStyleType: "disc", marginLeft: "50px" }}>
+                <li>Machine learning and deep learning</li>
+                <li>Natural language processing and text mining</li>
+                <li>Computer vision and image processing</li>
+                <li>Robotics and automation</li>
+                <li>Intelligent systems and decision support systems</li>
+                <li>Data mining and knowledge discovery</li>
+                <li>Cloud and edge computing</li>
+                <li>Internet of things (IoT) and cyber-physical systems</li>
+                <li>Human-computer interaction and user experience</li>
+                <li>Security and privacy in computing and AI</li>
               </ul>
+              <br />
+              <p>
+                ICICAI provides a platform for researchers and practitioners to
+                present and discuss their latest research findings, innovations,
+                and applications. The conference features keynote speeches,
+                technical sessions, workshops, and poster sessions. Participants
+                can also take part in various networking and social events, such
+                as a banquet and a cultural tour.
               </p>
               <br />
               <p>
-              ICICAI provides a platform for researchers and practitioners to present and discuss their latest research findings, innovations, and applications. The conference features keynote speeches, technical sessions, workshops, and poster sessions. Participants can also take part in various networking and social events, such as a banquet and a cultural tour.
+                ICICAI welcomes submissions of original research papers, survey
+                papers, and technical notes. All submissions are peer-reviewed
+                by an international program committee.
               </p>
               <br />
               <p>
-              ICICAI welcomes submissions of original research papers, survey papers, and technical notes. All submissions are peer-reviewed by an international program committee. Accepted papers will be published in the conference proceedings, which will be indexed by major databases, such as IEEE Xplore, ACM Digital Library, and Scopus.
-              </p>
-              <br />
-              <p>
-              ICICAI is held annually in different parts of the world, attracting participants from academia and industry worldwide. It provides an excellent opportunity for participants to learn about the latest trends and developments in innovative computing and AI and to network with their peers.
+                ICICAI is attracting participants from academia and industry
+                worldwide. It provides an excellent opportunity for participants
+                to learn about the latest trends and developments in innovative
+                computing and AI and to network with their peers. Through online
+                mode
               </p>
               <hr />
-              <p>
-                <b>
-                  The proceedings of the conference will be published in CCIS,
-                  Springer (Scopus Indexed).
-                </b>
-              </p>
             </div>
           </div>
-
           <div className="col-span-2 p-4 md:px-0">
             <div className="flex flex-col gap-4 shadow-md rounded shadow-slate-400 p-2 px-3 pt-4 pb-6">
               <div>
@@ -104,17 +127,16 @@ export default function Home() {
                   Sponsors
                 </h2>
                 <div className="pl-2 flex justify-around gap-3">
-                  {
-                    sponsors_img.map((img, index) => {
-                      return (
-                        <img 
-                          key={index} 
-                          src={img} 
-                          className={'h-24 w-24'}
-                          alt={img} />
-                      )
-                    })
-                  }
+                  {sponsors_img.map((img, index) => {
+                    return (
+                      <img
+                        key={index}
+                        src={img}
+                        className={"h-24 w-24"}
+                        alt={img}
+                      />
+                    );
+                  })}
                 </div>
               </div>
             </div>
