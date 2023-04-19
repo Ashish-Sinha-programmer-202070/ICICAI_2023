@@ -12,6 +12,7 @@ import ContactUs from "./pages/ContactUs";
 import ComLayout from "./pages/committee/ComLayout";
 import Speakers from "./pages/Speakers";
 import Submission from "./pages/Submission";
+import Student from "./pages/StudentCorrdinator";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -31,8 +32,9 @@ function App() {
         ].map((path, index) => (
           <Route path={path} element={<ComLayout />} key={index} />
         ))}
-
+      
         <Route path="/invited-speakers" element={<Speakers />} />
+        <Route path="/student-coordinator" element={<Student/>}/>
         <Route path="/submission" element={<Submission />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

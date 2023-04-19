@@ -35,28 +35,64 @@ export const callForPapers = [
 ];
 
 export const contact = [
-  {
-    name: "Dr. C. Rama Krishna",
-    desig: "Professor & Head",
-    contact: ["0172-2759670", "+91-9417494811"],
-    email: "rkc_97@yahoo.com",
-    loc: "National Institute of Technical Teachers Training and Research, Chandigarh, India",
-  },
-  {
-    name: "Dr. Maitreyee Dutta",
-    desig: "Professor",
-    contact: ["0172-2759693", "+91-9815612274"],
-    email: "d_maitreyee@yahoo.co.in",
-    loc: "National Institute of Technical Teachers Training and Research, Chandigarh, India",
-  },
+ 
   {
     name: "Dr. Rakesh Kumar",
-    desig: "Assistant Professor",
+    desig: " Professor and HOD",
     contact: ["0172-2759787", "+91-9416327669"],
-    email: "raakeshdhiman@gmail.com",
-    loc: "National Institute of Technical Teachers Training and Research, Chandigarh, India",
+    email: "hodcse@cuh.ac.in",
+    loc: "Central University of Haryana, Mahendragarh, India",
+   
   },
+
+  {
+    name: "Dr. Nitin Goyal",
+    desig: "Assistant Professor",
+    contact: ["+91-9896530089"],
+    email: "dr.nitin@cuh.ac.in",
+    loc: "Central University of Haryana, Mahendragarh, India",
+  }
+
 ];
+
+export const student = [
+ 
+  {
+    name: "Jack",
+    department: "Department of Computer Science and Engineering",
+    contact: ["91********"],
+    email: "jacke@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    
+  },
+  {
+    name: "Samiee",
+    department: "Department of Computer Science and Engineering",
+    contact: ["96********"],
+    email: "samee@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+   
+  },
+  {
+    name: "John",
+    department: "Department of Computer Science and Engineering",
+    contact: ["95********"],
+    email: "test@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+   
+  },
+  {
+    name: "Maria",
+    department: "Department of Computer Science and Engineering",
+    contact: ["98********"],
+    email: "example@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+   
+  }
+
+  
+];
+
 
 export const submissionRequirements = 
   {

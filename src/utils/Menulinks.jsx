@@ -36,13 +36,12 @@ export const menus = [
     children: [
       "Conference Venue", 
       "Sponsors", 
-      "Important Dates",
       "Program Schedule",
       "Contact us"],
   },
   {
     name: "Student coordinators",
-    link: "#",
+    link: "/student-coordinator",
     // children: ["ICCCN-2018", "ICIIL-2019"],
   },
 ];
@@ -74,9 +73,9 @@ export const footerMenus = [
     children: ["Venue Info.", "Proceeding Editors", "Sponsors", "Contact us"],
   },
   {
-    name: "History",
-    link: "history",
-    children: ["ICCCN-2018", "ICIIL-2019"],
+    name: "Student Coordinator",
+    link: "student",
+    children: ["Student Coordinator"],
   },
 ];
 

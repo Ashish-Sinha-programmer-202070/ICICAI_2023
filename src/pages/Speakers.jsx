@@ -23,7 +23,7 @@ const Speaker = () => {
                 <div className="">
                   <img
                     src={`../src/assets/${speaker["image"]}`}
-                    style={{height: 150, width:150}}
+                    style={{height: 150, width:150,  borderRadius: '50%'}}
                     className="rounded border-2 border-gray-400 object-fill max-w-[160px]"
                     alt="invited speakers"
                   />
