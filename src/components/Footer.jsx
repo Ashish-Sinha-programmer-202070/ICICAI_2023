@@ -30,10 +30,6 @@ export default function Footer() {
                 Central University of Haryana
               </span>
             </Link>
-            <p className="md:max-w-[24ch] text-slate-300 text-center">
-              A leading resource institute for promoting excellence in technical
-              education system.
-            </p>
           </div>
           <div className="grid grid-cols-2 gap-4 mt-2 sm:gap-6 sm:grid-cols-4">
             {footerMenus &&
