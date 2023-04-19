@@ -10,7 +10,7 @@ export default function NotFound() {
           <div className="container relative flex flex-col-reverse items-center justify-between px-6 mx-auto lg:flex-row">
             <div className="w-full flex flex-col items-center md:items-start mb-16 text-center md:mb-8 lg:text-left">
               <h1 className="mt-12 font-sans text-5xl font-light text-center text-gray-700 lg:text-left lg:text-8xl md:mt-0">
-                Sorry, this page isn&#x27;t available
+                To be announced !
               </h1>
               <Link to="/" className="px-2 py-2 text-center mt-16 text-lg transition duration-200 ease-in font-light rounded text-gray-200 bg-slate-600 w-36 hover:bg-slate-700 focus:outline-none">
                 Go back home

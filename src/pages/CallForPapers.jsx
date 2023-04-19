@@ -32,12 +32,12 @@ export default function CallForPapers() {
                 industry to meet and share cutting-edge development in the
                 field.
               </p>
-              <p className="text-rose-600 font-semibold">
+              {/* <p className="text-rose-600 font-semibold">
                 "The proceedings of the conference will be published in Lecture
                 Notes in Network and Systems, Springer. The proceeding of the
                 conference will be submitted for indexing to ISI Proceedings,
                 MetaPress, Springerlink and Scopus."
-              </p>
+              </p> */}
             </div>
             <div className="hidden md:block">
               <img src={cof} alt="" className="" />

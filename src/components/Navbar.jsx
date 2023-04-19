@@ -27,7 +27,7 @@ export default function Navbar() {
               <img src={cuhLogo} className="h-14" alt="ITTTR Chandingarh" />
               <div className="flex flex-col justify-center">
                 <span className="sm:text-xl font-bold">Central University of Haryana </span>
-                <span className="font-bold">Mahendragarh</span>
+                <span className="font-bold">India</span>
               </div>
             </Link>
             <div className="flex gap-2 items-center">
