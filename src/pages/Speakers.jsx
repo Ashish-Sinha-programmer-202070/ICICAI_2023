@@ -23,6 +23,7 @@ const Speaker = () => {
                 <div className="">
                   <img
                     src={`../src/assets/${speaker["image"]}`}
+                    style={{height: 150, width:150}}
                     className="rounded border-2 border-gray-400 object-fill max-w-[160px]"
                     alt="invited speakers"
                   />
@@ -36,7 +37,8 @@ const Speaker = () => {
                       })}
                   </span>
                   <span className="font-semibold">{speaker["talk"]}</span>
-                  <button className="mt-2 px-4 py-2 bg-slate-400 border border-gray-400 rounded shadow hover:bg-slate-500 transition duration-500 ease-out">
+                  <button 
+                  className="mt-2 px-4 py-2 bg-slate-400 border border-gray-400 rounded shadow hover:bg-slate-500 transition duration-500 ease-out">
                     Brief CV
                   </button>
                 </div>

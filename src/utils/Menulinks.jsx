@@ -27,15 +27,18 @@ export const menus = [
     children: [
       "Submission",
       "Registration",
-      "Important Dates",
-      "Program Schedule",
       "Proceeding Editors",
     ],
   },
   {
     name: "Conference info",
     link: "#",
-    children: ["Conference Venue", "Sponsors", "Contact us"],
+    children: [
+      "Conference Venue", 
+      "Sponsors", 
+      "Important Dates",
+      "Program Schedule",
+      "Contact us"],
   },
   {
     name: "Student coordinators",
