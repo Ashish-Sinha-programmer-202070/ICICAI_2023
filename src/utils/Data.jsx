@@ -59,35 +59,38 @@ export const student = [
  
   {
     name: "Jack",
-    department: "Department of Computer Science and Engineering",
+    department: " Computer Science and Engineering",
     contact: ["91********"],
     email: "jacke@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    
+    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
   },
   {
     name: "Samiee",
-    department: "Department of Computer Science and Engineering",
+    department: "Computer Science and Engineering",
     contact: ["96********"],
     email: "samee@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-   
+    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+
   },
   {
     name: "John",
-    department: "Department of Computer Science and Engineering",
+    department: " Computer Science and Engineering",
     contact: ["95********"],
     email: "test@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-   
+    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+
   },
   {
     name: "Maria",
-    department: "Department of Computer Science and Engineering",
+    department: " Computer Science and Engineering",
     contact: ["98********"],
     email: "example@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-   
+    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+
   }
 
   
