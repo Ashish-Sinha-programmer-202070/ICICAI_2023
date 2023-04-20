@@ -22,7 +22,7 @@ export default function Schedule(){
 
         <br/>
 
-        <div className="overflow-y-scroll" >
+        <div className="s-wrapper px-1 md:px-60" >
         <table 
         className="min-w-full divide-y divide-gray-200 content-center "
         style={{marginLeft: 'auto', marginRight: "auto"}}
@@ -147,7 +147,7 @@ export default function Schedule(){
     </h1>
 </div><br/><br/>
 
-<div className="overflow-y-scroll">
+<div className="s-wrapper px-1 md:px-60">
         <table className="min-w-full divide-y table-fixed divide-gray-200 ">
        
     <thead className="bg-gray-50 800 ">

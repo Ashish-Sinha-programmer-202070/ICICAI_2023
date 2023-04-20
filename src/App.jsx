@@ -14,7 +14,7 @@ import Speakers from "./pages/Speakers";
 import Submission from "./pages/Submission";
 import Student from "./pages/StudentCorrdinator";
 import Schedule from "./pages/ProgramSchedule";
-
+// import Venue from "./pages/ConferenceInfo";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -39,7 +39,7 @@ function App() {
         <Route path="/student-coordinator" element={<Student/>}/>
         <Route path="/submission" element={<Submission />} />
         <Route path="/program-schedule" element={<Schedule/>}/>
-    
+        {/* <Rote path="/conference-venue" element={<Venue/>}/> */}
         <Route path="*" element={<NotFound />} />
       </Routes>
 

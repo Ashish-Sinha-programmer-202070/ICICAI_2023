@@ -20,7 +20,7 @@ const Table = ({ data }) => {
           <tr>
             <th
               scope="col"
-              className="py-3.5 px-4 text-sm font-normal text-left rtl:text-right text-gray-500 400"
+              className="py-3.5 px-4 text-sm font-normal text-left  ight text-gray-500 400"
             >
               <span>Name</span>
             </th>
