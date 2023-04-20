@@ -22,8 +22,11 @@ export default function Schedule(){
 
         <br/>
 
-        <div className="overflow-y-scroll ">
-        <table className="min-w-full divide-y  divide-gray-200 content-center ">
+        <div className="overflow-y-scroll" >
+        <table 
+        className="min-w-full divide-y divide-gray-200 content-center "
+        style={{marginLeft: 'auto', marginRight: "auto"}}
+        >
        
     <thead className="bg-gray-50 800 .mr-10">
         <tr>
