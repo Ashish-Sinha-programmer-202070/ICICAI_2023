@@ -2,67 +2,105 @@
   "isCategory": true,
   "categories": 
     {
-      "p": "Patron",
+      "cp": "Chief Patron",
+      "p":"Patron",
       "cc": "Conference Chairs",
-      "ccc": "Conference Co-Chairs",
-      "loc": "Local Organizing Committee"
+      "oc": "Organizing Committee"
     }
   ,
-  "p": [
+  "cp": [
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
+      "name": "Prof. (Dr.) Tankeshwar Kumar",
+      "job": "Vice Chancellor",
       "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/images/vcsir11.png"
+    }
+  ],
+  "p":[
+    {
+      "name":"Prof. Phool Singh",
+      "job":"Dean of SOET",
+      "dept":"",
+      "univ":"Central University of Haryana",
+      "loc":"Mahendragarh, India",
+      "img":"https://cuh.ac.in//pdf/BTECH/PhoolSingh.jpg"
     }
   ],
   "cc": [
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "name":"Prof. Rakesh Kumar",
+      "job":"HOD of CSE",
+      "dept":"Computer Science & Engineering",
+      "univ":"Central University of Haryana",
+      "loc":"Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/rakesh_kumar.jpg"
     },
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "name": "Dr. Nitin Goyal",
+      "job": "Assistant Proffesor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
     }
   ],
-  "ccc": [
+  "oc": [
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "name": "Dr. Vishal Passricha",
+      "job": "Assistant Professor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg"
     },
+    
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
-    }
-  ],
-  "loc": [
-    {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "name": "Mr. Anant Rajee Bara",
+      "job": "Assistant Professor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/anant.jpg"
     },
+    
     {
-      "name": "Prof. Bhola Ram Gurjar",
-      "job": "Director",
-      "dept": "",
-      "univ": "National Institute of Technical Teachers Training and Research",
-      "loc": "Chandigarh, India"
+      "name": "Dr. Benay Kumar Ray",
+      "job": "Assistant Proffesor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/binay.jpg"
+    },
+    
+    {
+      "name": "Dr. Sushil Kumar",
+      "job": "Assistant Proffesor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/sushil.jpeg"
+    },
+    
+    {
+      "name": "Ms. Sangeeta",
+      "job": "Assistant Proffesor",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/sangeeta.jpg"
     }
+    ,
+    
+    {
+      "name": "Mr. Sandeep Singh Sikarwar",
+      "job": "Guest Lecturer",
+      "dept": "Computer Science & Engineering",
+      "univ": "Central University of Haryana",
+      "loc": "Mahendragarh, India",
+      "img":"https://www.cuh.ac.in/admin/uploads/department/cse/sandeep.jpg"
+    }
+    
   ]
 }
