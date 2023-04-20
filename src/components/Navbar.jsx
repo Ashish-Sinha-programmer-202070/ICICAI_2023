@@ -44,7 +44,7 @@ export default function Navbar() {
                   }}
                   className="hover:underline"
                 >
-                  ICICAI2023@cuh.ac.in
+                  icicai@cuh.ac.in
                 </Link>
               </div>
             </div>
