@@ -35,14 +35,12 @@ export const callForPapers = [
 ];
 
 export const contact = [
- 
   {
     name: "Dr. Rakesh Kumar",
     desig: " Professor and HOD",
     contact: ["0172-2759787", "+91-9416327669"],
     email: "hodcse@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-   
   },
 
   {
@@ -51,53 +49,44 @@ export const contact = [
     contact: ["+91-9896530089"],
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-  }
-
+  },
 ];
 
 export const student = [
- 
   {
-    name: "Jack",
+    name: "Ashish Sinha",
     department: " Computer Science and Engineering",
     contact: ["91********"],
     email: "jacke@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+    img: "https://svgsilh.com/svg/659651.svg",
   },
   {
-    name: "Samiee",
+    name: "Diyanshu Verma",
     department: "Computer Science and Engineering",
     contact: ["96********"],
     email: "samee@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
-
+    img: "https://svgsilh.com/svg/659651.svg",
   },
   {
-    name: "John",
+    name: "Hari Kiran",
     department: " Computer Science and Engineering",
     contact: ["95********"],
     email: "test@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
-
+    img: "https://svgsilh.com/svg/659651.svg",
   },
   {
-    name: "Maria",
+    name: "Birender",
     department: " Computer Science and Engineering",
     contact: ["98********"],
     email: "example@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
-
-  }
-
-  
+    img: "https://svgsilh.com/svg/659651.svg",
+  },
 ];
 
-
-export const submissionRequirements = 
-  {
-    link: `https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Microsoft+Word+Proceedings+Templates.zip`,
-  };
+export const submissionRequirements = {
+  link: `https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Microsoft+Word+Proceedings+Templates.zip`,
+};

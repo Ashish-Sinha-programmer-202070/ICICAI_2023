@@ -15,66 +15,49 @@ export default function Student() {
       <div className=" flex flex-row gap-10 flex-wrap justify-center">
         {student.map((elem, index) => {
           return (
-    <div className="flex  flex-wrap justify-center gap-4">
-            <div className="relative block w-[370px]  rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8">
-              <span className="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span>
-              <div className="flex items-center gap-4">
+            <div className="flex  flex-wrap justify-center gap-4">
+              <div className="relative block w-[370px]  rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8">
+                <span className="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span>
+                <div class="flex items-center gap-4">
+                  <img
+                    alt="Developer"
+                    src={elem.img}
+                    class="h-16 w-16 rounded-full object-cover"
+                  />
 
-                <div 
-                // key={index}
-                //   className="flex flex-col gap-4 shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-4 card"
-                  >
-                  <div >
-                    <img
-                      src={elem.img}
-                      className="className= h-16 w-16 rounded-full object-cover" 
+                  <div>
+                    <h3 class="text-base font-medium text-black">
+                      {elem.name}
+                    </h3>
 
-                    />
-                  </div>
-
-                  <div className="flex gap-4">
-                    <FaUserTie className="h-8 w-8 p-1  rounded-full border-slate-500 border text-slate-700" style={{marginTop:'35px'}}/>
-                    <div >
-                      <h3 className="text-base font-medium text-black pt-8"> {elem.name}</h3>
-                      <div className="flow-root">
-                        <ul className="-m-1 flex flex-wrap">
-                          <a href="#" className="text-xs font-medium text-gray-500">Student</a>
-                        </ul>
-                      </div>
-
+                    <div class="flow-root">
+                      <ul class="-m-1 flex flex-wrap">
+                        <li class="p-1 leading-none">
+                          <a href="#" class="text-xs font-medium text-gray-500">
+                            Student
+                          </a>
+                        </li>
+                      </ul>
                     </div>
-
                   </div>
-                  <div className="mt-4">
-                    <p className="max-w-[40ch] text-base text-gray-800">
-                      {elem.department}
-                    </p>
-                    <p className="max-w-[40ch] text-sm text-gray-500">
-                      {elem.loc}
-                    </p>
-                  </div>
-
-
                 </div>
-
-
-
-
-
-
-
-
-
+                <div className="flex items-center gap-4">
+                  <div>
+                    <div className="mt-4">
+                      <p className="max-w-[40ch] text-base text-gray-800">
+                        {elem.department}
+                      </p>
+                      <p className="max-w-[40ch] text-sm text-gray-500">
+                        {elem.loc}
+                      </p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            </div>
-          )
-
+          );
         })}
       </div>
-
-
-
     </div>
-  )
+  );
 }
