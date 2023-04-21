@@ -12,7 +12,7 @@ export default function Student() {
         <PageHeader text={"Student Coordinators"} />
       </div>
 
-      <div className=" flex flex-row gap-10 flex-wrap justify-center">
+      <div className=" flex flex-row gap-10 flex-wrap justify-center mt-15">
         {student.map((elem, index) => {
           return (
     <div className="flex  flex-wrap justify-center gap-4">
@@ -24,23 +24,22 @@ export default function Student() {
                 // key={index}
                 //   className="flex flex-col gap-4 shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-4 card"
                   >
-                  <div >
+                  <div className="flex items-center gap-4" >
                     <img
                       src={elem.img}
-                      className="className= h-16 w-16 rounded-full object-cover" 
-
-                    />
-                  </div>
-
-                  <div className="flex gap-4">
-                    <FaUserTie className="h-8 w-8 p-1  rounded-full border-slate-500 border text-slate-700" style={{marginTop:'35px'}}/>
+                      className="className= h-16 w-16 rounded-full object-cover"/>
+                     <div className="flex gap-4">
+                    {/* <FaUserTie className="h-8 w-8 p-1  rounded-full border-slate-500 border text-slate-700" style={{marginTop:'10px'}}/> */}
                     <div >
-                      <h3 className="text-base font-medium text-black pt-8"> {elem.name}</h3>
+                      <h3 className="text-base font-medium text-black pt-1 px-5"> {elem.name}</h3>
                       <div className="flow-root">
                         <ul className="-m-1 flex flex-wrap">
-                          <a href="#" className="text-xs font-medium text-gray-500">Student</a>
+                          <a href="#" className="text-xs font-medium text-gray-500 px-6">Student</a>
                         </ul>
                       </div>
+                  </div>
+
+                 
 
                     </div>
 

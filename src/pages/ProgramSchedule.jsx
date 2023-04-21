@@ -13,7 +13,7 @@ export default function Schedule(){
         <br/>
 {/* Table Content */}
 <div >
-    <h1 
+    <h1 className="mt-5 mb-5"
     style=
     {{paddingLeft:"3%", fontSize:25, fontWeight:500, fontFamily: 'cursive', color: ' rgb(100 116 139)',textAlign: 'center'}}>
     Day 1 : 14.12.2023
@@ -22,9 +22,9 @@ export default function Schedule(){
 
         <br/>
 
-        <div className="s-wrapper px-1 md:px-60" >
+        <div className="s-wrapper px-1 md:px-60 " >
         <table 
-        className="min-w-full divide-y divide-gray-200 content-center "
+        className="min-w-full divide-y divide-gray-200 content-center"
         style={{marginLeft: 'auto', marginRight: "auto"}}
         >
        
@@ -140,14 +140,14 @@ export default function Schedule(){
 <br/>
 
 <div >
-    <h1 
+    <h1 className="mt-5 mb-5"
     style=
     {{paddingLeft:"3%", fontSize:25, fontWeight:500, fontFamily: 'cursive', color: ' rgb(100 116 139)', textAlign: 'center'}}>
     Day 2 : 15.12.2023
     </h1>
 </div><br/><br/>
 
-<div className="s-wrapper px-1 md:px-60">
+<div className="s-wrapper px-1 md:px-60 ">
         <table className="min-w-full divide-y table-fixed divide-gray-200 ">
        
     <thead className="bg-gray-50 800 ">
@@ -277,6 +277,7 @@ export default function Schedule(){
 </tbody>
 
         </table>
+        <br/> <br/> 
     </div>
 
     </div>

@@ -63,7 +63,7 @@ export const student = [
     contact: ["91********"],
     email: "jacke@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+    img: "	http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg "
   },
   {
     name: "Samiee",
@@ -71,7 +71,7 @@ export const student = [
     contact: ["96********"],
     email: "samee@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+    img: "	http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/birender.jpeg "
 
   },
   {
@@ -80,7 +80,7 @@ export const student = [
     contact: ["95********"],
     email: "test@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+    img: "http://bytecodelearners.cuh.ac.in/initiators-image/shantanu-pratap.jpg"
 
   },
   {
@@ -89,10 +89,18 @@ export const student = [
     contact: ["98********"],
     email: "example@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/vishal_passricha.jpg "
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/divyanshuvermaji@gmail.com.jpg "
+
+  },
+  {
+    name: "Rocky",
+    department: " Computer Science and Engineering",
+    contact: ["87********"],
+    email: "example@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/harikiran.kante@gmail.com.jpg"
 
   }
-
   
 ];
 
