@@ -35,14 +35,12 @@ export const callForPapers = [
 ];
 
 export const contact = [
- 
   {
     name: "Dr. Rakesh Kumar",
     desig: " Professor and HOD",
     contact: ["0172-2759787", "+91-9416327669"],
     email: "hodcse@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-   
   },
 
   {
@@ -51,61 +49,46 @@ export const contact = [
     contact: ["+91-9896530089"],
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-  }
-
+  },
 ];
 
 export const student = [
- 
   {
-    name: "Jack",
+    name: "Ashish Sinha",
     department: " Computer Science and Engineering",
     contact: ["91********"],
     email: "jacke@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg "
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
   },
   {
-    name: "Samiee",
-    department: "Computer Science and Engineering",
-    contact: ["96********"],
-    email: "samee@gmail.com",
-    loc: "Central University of Haryana, Mahendragarh, India",
-    img: "	http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/birender.jpeg "
-
-  },
-  {
-    name: "John",
-    department: " Computer Science and Engineering",
-    contact: ["95********"],
-    email: "test@gmail.com",
-    loc: "Central University of Haryana, Mahendragarh, India",
-    img: "http://bytecodelearners.cuh.ac.in/initiators-image/shantanu-pratap.jpg"
-
-  },
-  {
-    name: "Maria",
+    name: "Birender",
     department: " Computer Science and Engineering",
     contact: ["98********"],
     email: "example@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/divyanshuvermaji@gmail.com.jpg "
-
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/birender.jpeg",
+  },
+  
+  {
+    name: "Hari Kiran",
+    department: " Computer Science and Engineering",
+    contact: ["95********"],
+    email: "test@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/harikiran.kante@gmail.com.jpg",
   },
   {
-    name: "Rocky",
-    department: " Computer Science and Engineering",
-    contact: ["87********"],
-    email: "example@gmail.com",
+    name: "Diyanshu Verma",
+    department: "Computer Science and Engineering",
+    contact: ["96********"],
+    email: "samee@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/harikiran.kante@gmail.com.jpg"
-
-  }
-  
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/divyanshuvermaji@gmail.com.jpg",
+  },
+ 
 ];
 
-
-export const submissionRequirements = 
-  {
-    link: `https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Microsoft+Word+Proceedings+Templates.zip`,
-  };
+export const submissionRequirements = {
+  link: `https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Microsoft+Word+Proceedings+Templates.zip`,
+};
