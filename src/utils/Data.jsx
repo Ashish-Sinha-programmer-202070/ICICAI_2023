@@ -41,6 +41,7 @@ export const contact = [
     contact: ["0172-2759787", "+91-9416327669"],
     email: "hodcse@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/rakesh_kumar.jpg"
   },
 
   {
@@ -49,6 +50,7 @@ export const contact = [
     contact: ["+91-9896530089"],
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
   },
 ];
 
@@ -86,6 +88,14 @@ export const student = [
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/divyanshuvermaji@gmail.com.jpg",
   },
+  {
+    name: "Gautaum Kumar Giri",
+    department: "Computer Science and Engineering",
+    contact: ["96********"],
+    email: "samee@gmail.com",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
+  }
  
 ];
 

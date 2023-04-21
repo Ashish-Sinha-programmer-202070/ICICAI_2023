@@ -12,60 +12,87 @@ export default function ContactUs() {
       <div className="w-full bg-slate-500">
         <PageHeader text={"Contact Us"} />
       </div>
+      <div className=" flex flex-row gap-10 flex-wrap justify-center mt-15">
+        {contact.map((elem, index) => {
+          return (
+            <div className="flex  flex-wrap justify-center gap-4">
+              <div className="relative block w-[450px]  rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8">
+                <span className="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span>
+                <div class="flex items-center gap-4">
+                  <img
+                    alt="Developer"
+                    src={elem.img}
+                    class="h-16 w-16 rounded-full object-cover"
+                  />
 
-      <div className="w-full">
-        <div className="s-wrapper text-slate-600 pt-10 pb-10">
-          <div className="flex justify-around flex-wrap gap-4">
-            {contact.map((elem, index) => {
-              return (
-                <div
-                  key={index}
-                  className="flex flex-col gap-4 shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-4 card"
-                >
-                  <div className="flex gap-4">
-                    <FaUserTie className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
-                    <div style={{fontWeight: 900}}>
-                      <p>{elem.name}</p>
-                      <p>{elem.desig}</p>
+                  <div>
+                    <h3 class="text-lg font-medium text-black">
+                      {elem.name}
+                    </h3>
+
+                    <div class="flow-root">
+                      <ul class="-m-1 flex flex-wrap">
+                        <li class="p-1 leading-none">
+                          <a href="#" class="text-xs font-medium text-gray-500">
+                            {elem.desig}
+                          </a>
+                        </li>
+                      </ul>
                     </div>
                   </div>
-                  <div className="flex items-center gap-4">
-                    <IoMail className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
-                    <Link
-                      to="/#"
-                      onClick={(e) => {
-                        window.location.href = `mailto:${elem.email}`;
-                        e.preventDefault();
-                      }}
-                      className="text-slate-800"
-                    >
-                      {elem.email}
-                    </Link>
-                  </div>
-                  <div className="flex items-center gap-4">
-                    <FaPhoneAlt className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
-                    <Link
-                      to="/#"
-                      onClick={(e) => {
-                        window.location.href = "tel:0172-2759670";
-                        e.preventDefault();
-                      }}
-                      className="text-slate-800"
-                    >
-                      {/* {elem.contact[0] + ", " + elem.contact[1]} */}
-                      {elem.contact}
-                    </Link>
-                  </div>
-                  <div className="flex justify-center gap-4">
-                    <p className="max-w-[60ch]">{elem.loc}</p>
-                  </div>
-                 
                 </div>
-              );
-            })}
-          </div>
-        </div>
+                <div className="flex items-center flex-wrap gap-4">
+
+                  <div className="mt-4 w-full">
+                    <div className="flex gap-4">
+                      <FaUniversity className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
+                      <div>
+                        <p>{elem.loc}</p>
+
+
+                      </div>
+
+                    </div>
+                  </div>
+                  <div className="mt-0  w-full">
+                    <div className="flex gap-4">
+                      <FaPhoneAlt className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
+                      {
+                        elem.contact.length === 1 ? <div>
+                          <p>{elem.contact[0]}
+                          </p>
+
+                        </div> : <div>
+                          <p>{elem.contact[0]}
+                            <span
+                              className="font-extrabold text-transparent text-1xl bg-clip-text bg-gradient-to-t px-2 from-green-300 via-blue-500 to-purple-600">|</span>
+                            <span > {elem.contact[1]} </span></p>
+
+
+                        </div>
+                      }
+
+                    </div>
+                  </div>
+
+                  <div className="mt-0 w-full">
+                    <div className="flex gap-4 ">
+                      <IoMail className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
+                      <div>
+                        <p>{elem.email}</p>
+
+
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
       </div>
+
     </div>
   );
 }
