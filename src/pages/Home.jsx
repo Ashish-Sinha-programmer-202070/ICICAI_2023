@@ -21,9 +21,9 @@ export default function Home() {
               <div>
                 <img src={banner} alt="" />
               </div>
-              <div>
+              {/* <div>
                 <img src={banner} alt="" />
-              </div>
+              </div> */}
             </Carousel>
           </div>
         </div>
@@ -36,10 +36,19 @@ export default function Home() {
             <hr />
             <div className="mt-4 text-justify">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et
-                dolore fugiat veritatis? Fugiat vero, suscipit modi, commodi
-                eum, ullam consequuntur dignissimos aut deserunt ipsum dolore
-                aliquid officiis dicta ipsa quibusdam!
+                Central University of Haryana is one of the fifteen new Central
+                Universities established by Ministry of Human Resource
+                Development, Government of India (GoI) in XI Five Year Plan
+                (2007-2012) under the Central University Act-2009 of the
+                Parliament. <br /> The University has been accredited with 'A'
+                Grade in the first cycle of NAAC assessment and accreditation
+                conducted in March 2017. The University has been listed among
+                the top 150-200 Universities in NIRF ranking. The University is
+                fully funded by the University Grants Commission (UGC).
+                Permanent Campus of the University is situated in 484 acres of
+                land at Jant-Pali Villages, Mahendergarh district of Haryana
+                from where CUH is running its academic operations. Presently the
+                University offers 83 academic programmes (UG/PG/Research).
               </p>
             </div>
             <br />
@@ -122,7 +131,7 @@ export default function Home() {
                 </div>
               </div>
               <hr />
-              <div>
+              {/* <div>
                 <h2 className="font-bold text-lg text-slate-700 mb-4">
                   Sponsors
                 </h2>
@@ -138,7 +147,7 @@ export default function Home() {
                     );
                   })}
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
