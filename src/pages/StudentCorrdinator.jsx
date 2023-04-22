@@ -1,8 +1,8 @@
 import React from "react";
 import PageHeader from "../components/PageHeader";
 // import { Link } from "react-router-dom";
-// import { FaUserTie, FaUniversity, FaPhoneAlt } from "react-icons/fa";
-// import { IoMail } from "react-icons/io5";
+import { FaUserTie, FaUniversity, FaPhoneAlt } from "react-icons/fa";
+import { IoMail } from "react-icons/io5";
 import { contact, student } from "../utils/Data";
 
 export default function Student() {
@@ -26,14 +26,14 @@ export default function Student() {
                   />
 
                   <div>
-                    <h3 className="text-base font-medium text-black">
+                    <h3 className="text-lg font-medium text-black">
                       {elem.name}
                     </h3>
 
                     <div className="flow-root">
                       <ul className="-m-1 flex flex-wrap">
                         <li className="p-1 leading-none">
-                          <a href="#" className="text-xs font-medium text-gray-500">
+                          <a href="#" className="text-base font-medium text-gray-500">
                             Student
                           </a>
                         </li>
@@ -41,10 +41,30 @@ export default function Student() {
                     </div>
                   </div>
                 </div>
+
+
+                <div className="mt-0 w-full ">
+                  <div className="flex gap-4 mt-6">
+                    <FaPhoneAlt className="h-6 w-6 p-1 rounded-full border-slate-500 border text-slate-700" />
+                    <div className="max-w-[40ch] text-base font-medium text-gray-600">
+                      <p>{elem.contact}</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="mt-0 w-full ">
+                  <div className="flex gap-4 mt-4 ">
+                    <IoMail className="h-6 w-6 p-1 rounded-full border-slate-500 border text-slate-700" />
+                    <div className="max-w-[40ch] text-base font-medium text-gray-600">
+                      <p>{elem.email}</p>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="flex items-center gap-4">
                   <div>
                     <div className="mt-4">
-                      <p className="max-w-[40ch] text-base text-gray-800">
+                      <p className="max-w-[40ch] text-base font-medium text-gray-800">
                         {elem.department}
                       </p>
                       <p className="max-w-[40ch] text-sm text-gray-500">
