@@ -1,28 +1,28 @@
 {
-    "members": [
-        {
-          "name": "Dr. Mani Madhkar",
-          "university": [
-            "CSR for Academia",
-            "IBM India Pvt. Ltd."
-          ],
-          "talk": "Title of invited talk: AI for AI",
-          "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/manimadhukar.pdf",
-          "image": "2023/invited-speakers/manimadhkar.png"
-        },
-        {
-          "name": "Dr. Ashutosh Kumar Singh",
-          "university": ["Department of Computer Applications", "NIT Kurukshetra"],
-          "talk": "Title of invited talk: Cloud Security",
-          "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/manimadhukar.pdf",
-          "image": "2023/invited-speakers/ashutoush_singh.jpg"
-        },
-        {
-          "name": "Er. Shalabh Verma",
-          "university": ["Industry Person", "TCS "],
-          "talk": "Title of invited talk: Artificial Intelligence of Things in Power grid",
-          "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Prof.%20Math%20Bollen_CV.docx.pdf",
-          "image": "2023/invited-speakers/mathbollen.png"
-      }
-    ]
+  "members": [
+    {
+      "name": "Dr. Mani Madhkar",
+      "depatment": "CSR for Academia",
+      "location": "IBM India Pvt. Ltd.",
+      "talk": "Title of invited talk: AI for AI",
+      "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/manimadhukar.pdf",
+      "image": "https://www.jimsindia.org/techbyte2k20/images/Speakers/mani.jpg"
+    },
+    {
+      "name": "Dr. Ashutosh Kumar Singh",
+      "depatment": "Department of Computer Applications",
+      "location": "NIT Kurukshetra",
+      "talk": "Title of invited talk: Cloud Security",
+      "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/manimadhukar.pdf",
+      "image": "https://nitkkr.ac.in/wp-content/uploads/2021/12/Ashutosh-Kumar-Singh.jpg"
+    },
+    {
+      "name": "Er. Shalabh Verma",
+      "depatment": "Industry Person",
+      "location": "Tata Consultancy Services ",
+      "talk": "Title of invited talk: Artificial Intelligence of Things in Power grid",
+      "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/Prof.%20Math%20Bollen_CV.docx.pdf",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a74702ce45a7cd601df944b/1679647851207-9TRF9W4JIIDHZJ3PBEPH/Marc+Selinger.png?format=300w"
+    }
+  ]
 }

@@ -64,14 +64,14 @@ export const student = [
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
   },
   {
-    name: "Birender",
+    name: "Birender Singh ",
     department: " Computer Science and Engineering",
     contact: ["98********"],
     email: "example@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/birender.jpeg",
   },
-  
+
   {
     name: "Hari Kiran",
     department: " Computer Science and Engineering",
@@ -96,7 +96,7 @@ export const student = [
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
   }
- 
+
 ];
 
 export const submissionRequirements = {

@@ -1,8 +1,8 @@
 import React from "react";
 import PageHeader from "../components/PageHeader";
-import { Link } from "react-router-dom";
-import { FaUserTie, FaUniversity, FaPhoneAlt } from "react-icons/fa";
-import { IoMail } from "react-icons/io5";
+// import { Link } from "react-router-dom";
+// import { FaUserTie, FaUniversity, FaPhoneAlt } from "react-icons/fa";
+// import { IoMail } from "react-icons/io5";
 import { contact, student } from "../utils/Data";
 
 export default function Student() {
@@ -18,22 +18,22 @@ export default function Student() {
             <div className="flex  flex-wrap justify-center gap-4">
               <div className="relative block w-[370px]  rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8">
                 <span className="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span>
-                <div class="flex items-center gap-4">
+                <div className="flex items-center gap-4">
                   <img
                     alt="Developer"
                     src={elem.img}
-                    class="h-16 w-16 rounded-full object-cover"
+                    className="h-16 w-16 rounded-full object-cover"
                   />
 
                   <div>
-                    <h3 class="text-base font-medium text-black">
+                    <h3 className="text-base font-medium text-black">
                       {elem.name}
                     </h3>
 
-                    <div class="flow-root">
-                      <ul class="-m-1 flex flex-wrap">
-                        <li class="p-1 leading-none">
-                          <a href="#" class="text-xs font-medium text-gray-500">
+                    <div className="flow-root">
+                      <ul className="-m-1 flex flex-wrap">
+                        <li className="p-1 leading-none">
+                          <a href="#" className="text-xs font-medium text-gray-500">
                             Student
                           </a>
                         </li>

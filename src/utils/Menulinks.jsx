@@ -18,8 +18,8 @@ export const menus = [
   },
   {
     name: "speakers",
-    link: "#",
-    children: ["Invited Speakers"],
+    link: "speaker",
+    // children: ["Invited Speakers"],
   },
   {
     name: "Attending",
@@ -34,10 +34,10 @@ export const menus = [
     name: "Conference info",
     link: "#",
     children: [
-      "Conference Venue", 
-      "Sponsors", 
+      "Conference Venue",
+      "Sponsors",
       "Program Schedule",
-    
+
       "Contact us"],
   },
   {
