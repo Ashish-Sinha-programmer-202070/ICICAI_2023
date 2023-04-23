@@ -7,20 +7,23 @@ import organizingCommitteData from "../../utils/committee_data/organising_com.js
 import { professorLogo } from "../../utils/GraphicContent";
 
 const Table = ({ data }) => {
+  const numRows = 15;
+  const [page, setPage] = useState(0);
+
   return (
-    <div className="overflow-x-scroll">
+    <div className="overflow-x-auto">
       <table className="min-w-full divide-y table-fixed divide-gray-200 ">
-        {/* <colgroup>
-          <col span="1" style="width: 20%;" />
-          <col span="1" style="width: 20%;" />
-          <col span="1" style="width: 30%;" />
-          <col span="1" style="width: 30%;" />
-        </colgroup> */}
         <thead className="bg-gray-50 800 ">
           <tr>
             <th
               scope="col"
-              className="py-3.5 px-4 text-sm font-normal text-left  ight text-gray-500 400"
+              className="py-3.5 px-4 text-sm font-normal text-left text-gray-500 400"
+            >
+              <span>Sr.No</span>
+            </th>
+            <th
+              scope="col"
+              className="py-3.5 px-4 text-sm font-normal text-left text-gray-500 400"
             >
               <span>Name</span>
             </th>
@@ -48,33 +51,90 @@ const Table = ({ data }) => {
           </tr>
         </thead>
         <tbody className="bg-white divide-y divide-gray-200">
-          {data.members.map((mem, idx) => {
-            return (
-              <tr>
-                <td
-                  key={idx}
-                  className="px-4 py-2 max-w-2/12 text-sm font-medium"
-                >
-                  <div>
-                    <p className="text-sm font-normal text-gray-600">
-                      {mem.name}
-                    </p>
-                  </div>
-                </td>
-                <td className="px-12 py-2 max-w-2/12 text-sm font-medium ">
-                  {mem.job}
-                </td>
-                <td className="px-4 py-2 max-w-4/12 text-sm">
-                  <div>{mem.dept}</div>
-                </td>
-                <td className="px-4 py-2 max-w-4/12 whitespace-normal text-sm">
-                  <span>{mem.univ}</span>, <span>{mem.loc}</span>
-                </td>
-              </tr>
-            );
-          })}
+          {data.members
+            .slice(page * numRows, page * numRows + numRows)
+            .map((mem, idx) => {
+              return (
+                <tr key={idx}>
+                  <td className="text-center">{page * numRows + (idx + 1)}</td>
+                  <td className="px-4 py-2 max-w-2/12 text-sm font-medium">
+                    <div>
+                      <p className="text-sm font-normal text-gray-600">
+                        {mem.name}
+                      </p>
+                    </div>
+                  </td>
+                  <td className="px-12 py-2 max-w-2/12 text-sm font-medium ">
+                    {mem.job}
+                  </td>
+                  <td className="px-4 py-2 max-w-4/12 text-sm">
+                    <div>{mem.dept}</div>
+                  </td>
+                  <td className="px-4 py-2 max-w-4/12 whitespace-normal text-sm">
+                    <span>{mem.univ}</span>, <span>{mem.loc}</span>
+                  </td>
+                </tr>
+              );
+            })}
         </tbody>
       </table>
+      <div className="text-black flex justify-between mt-5">
+        <button
+          disabled={page <= 0}
+          onClick={() => {
+            setPage((pg) => pg - 1);
+          }}
+          className={`${
+            page <= 0 ? "cursor-not-allowed" : ""
+          } flex gap-1 items-center px-4 m-2 py-2 font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-blue-600 rounded-lg hover:bg-blue-500 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-80`}
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            strokeWidth={1.5}
+            stroke="currentColor"
+            className="w-5 h-5"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18"
+            />
+          </svg>
+          <span>Prev</span>
+        </button>
+        <p className="text-gray-900 bg-white hover:bg-gray-100 border border-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2 text-center inline-flex items-center  mr-2 mb-2">
+          Page {page + 1}
+        </p>
+        <button
+          disabled={data?.members?.length <= page * numRows + numRows}
+          onClick={() => {
+            setPage((pg) => pg + 1);
+          }}
+          className={`${
+            data?.members?.length <= page * numRows + numRows
+              ? "cursor-not-allowed"
+              : ""
+          } flex gap-1 items-center px-4 m-2 py-2 font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-blue-600 rounded-lg hover:bg-blue-500 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-80`}
+        >
+          <span>Next</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            strokeWidth={1.5}
+            stroke="currentColor"
+            className="w-5 h-5"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3"
+            />
+          </svg>
+        </button>
+      </div>
     </div>
   );
 };
