@@ -7,20 +7,11 @@ import organizingCommitteData from "../../utils/committee_data/organising_com.js
 import { professorLogo } from "../../utils/GraphicContent";
 
 const Table = ({ data }) => {
-  const numRows = 15;
-  const [page, setPage] = useState(0);
-
   return (
     <div className="overflow-x-auto">
       <table className="min-w-full divide-y table-fixed divide-gray-200 ">
         <thead className="bg-gray-50 800 ">
           <tr>
-            <th
-              scope="col"
-              className="py-3.5 px-4 text-sm font-normal text-left text-gray-500 400"
-            >
-              <span>Sr.No</span>
-            </th>
             <th
               scope="col"
               className="py-3.5 px-4 text-sm font-normal text-left text-gray-500 400"
@@ -51,34 +42,31 @@ const Table = ({ data }) => {
           </tr>
         </thead>
         <tbody className="bg-white divide-y divide-gray-200">
-          {data.members
-            .slice(page * numRows, page * numRows + numRows)
-            .map((mem, idx) => {
-              return (
-                <tr key={idx}>
-                  <td className="text-center">{page * numRows + (idx + 1)}</td>
-                  <td className="px-4 py-2 max-w-2/12 text-sm font-medium">
-                    <div>
-                      <p className="text-sm font-normal text-gray-600">
-                        {mem.name}
-                      </p>
-                    </div>
-                  </td>
-                  <td className="px-12 py-2 max-w-2/12 text-sm font-medium ">
-                    {mem.job}
-                  </td>
-                  <td className="px-4 py-2 max-w-4/12 text-sm">
-                    <div>{mem.dept}</div>
-                  </td>
-                  <td className="px-4 py-2 max-w-4/12 whitespace-normal text-sm">
-                    <span>{mem.univ}</span>, <span>{mem.loc}</span>
-                  </td>
-                </tr>
-              );
-            })}
+          {data.members.map((mem, idx) => {
+            return (
+              <tr key={idx}>
+                <td className="px-4 py-2 max-w-2/12 text-sm font-medium">
+                  <div>
+                    <p className="text-sm font-normal text-gray-600">
+                      {mem.name}
+                    </p>
+                  </div>
+                </td>
+                <td className="px-12 py-2 max-w-2/12 text-sm font-medium ">
+                  {mem.job}
+                </td>
+                <td className="px-4 py-2 max-w-4/12 text-sm">
+                  <div>{mem.dept}</div>
+                </td>
+                <td className="px-4 py-2 max-w-4/12 whitespace-normal text-sm">
+                  <span>{mem.univ}</span>, <span>{mem.loc}</span>
+                </td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
-      <div className="text-black flex justify-between mt-5">
+      {/* <div className="text-black flex justify-between mt-5">
         <button
           disabled={page <= 0}
           onClick={() => {
@@ -134,7 +122,7 @@ const Table = ({ data }) => {
             />
           </svg>
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };
