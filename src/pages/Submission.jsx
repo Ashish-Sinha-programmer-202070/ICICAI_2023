@@ -12,16 +12,16 @@ const SubmissionPage = () => {
             The research papers can be submitted through{" "}
             <a
               style={{ color: "blue" }}
-              href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICAIOT2023"
+              href="https://easychair.org/"
             >
-              Microsoft CMT : Click here{" "}
+              EasyChair{" "}
             </a>
           </li>
           <li>All submissions must be in English only.</li>
           <li>
             Authors are requested to submit implementation paper with
             significant contribution (length more than 12 pages) in PDF using
-            the LNCS Springer template. NO Review Paper will be accepted.{" "}
+            the Springer template.
           </li>
           <li>
             Author(s) can refer{" "}
@@ -29,7 +29,7 @@ const SubmissionPage = () => {
               style={{ color: "blue" }}
               href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/"
             >
-              LNCS, Springer Series Guidelines
+              Springer Series Guidelines
             </a>{" "}
             for preparing Camera Ready paper
           </li>
@@ -52,7 +52,7 @@ const SubmissionPage = () => {
             readability.
           </li>
           <li>
-            Papers submitted to ICAIoT-2023 should contain original
+            Papers submitted to ICICAI-2023 should contain original
             research/study and should not have been published or submitted for
             publication elsewhere.
           </li>
@@ -61,12 +61,12 @@ const SubmissionPage = () => {
             is responsible for any plagiarized submission
           </li>
         </ul>
-        <a
+        {/* <a
           href="{submissionRequirements.link}"
           className="mt-6 rounded bg-slate-400 px-4 py-2 hover:bg-slate-500 hover:text-gray-200 transition ease-out duration-300"
         >
           Click here to download template
-        </a>
+        </a> */}
       </div>
     </div>
   );

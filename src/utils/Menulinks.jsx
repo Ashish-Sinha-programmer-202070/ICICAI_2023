@@ -42,7 +42,7 @@ export const menus = [
   },
   {
     name: "Student coordinators",
-    link: "/student-coordinator",
+    link: "/student-coordinators",
     // children: ["ICCCN-2018", "ICIIL-2019"],
   },
 ];
@@ -74,9 +74,9 @@ export const footerMenus = [
     children: ["Venue Info.", "Proceeding Editors", "Sponsors", "Contact us"],
   },
   {
-    name: "Student Coordinator",
+    name: "Student Coordinators",
     link: "student",
-    children: ["Student Coordinator"],
+    children: ["Student Coordinators"],
   },
 ];
 

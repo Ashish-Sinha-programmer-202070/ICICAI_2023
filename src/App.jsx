@@ -38,7 +38,7 @@ function App() {
         ))}
 
         {/* <Route path="/invited-speakers" element={<Speakers />} /> */}
-        <Route path="/student-coordinator" element={<Student />} />
+        <Route path="/student-coordinators" element={<Student />} />
         <Route path="/submission" element={<Submission />} />
         <Route path="/speaker" element={<Speaker />} />
         <Route path="/program-schedule" element={<Schedule />} />

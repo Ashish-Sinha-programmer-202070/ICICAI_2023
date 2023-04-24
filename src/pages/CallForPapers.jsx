@@ -16,13 +16,13 @@ export default function CallForPapers() {
           <div className="grid grid-cols-1 gap-4 mb-4 md:grid-cols-3">
             <div className="text-justify col-span-2 font-sanchez">
               <p className="mb-4">
-                2nd International Conference on Communication, Computing &
-                Networking (ICCCN-2018) will provide an excellent international
+                1st International Conference on Innovative Computing and Artificial
+                Intelligence (ICICAI'23) will provide an excellent international
                 forum for sharing knowledge and results in theory, methodology
                 and applications of Computer Networks & Information Technology.
                 The Conference looks for significant contributions to the
-                Computer Networks & Communications for Wired and Wireless
-                Networks in theoretical and practical aspects. Original papers
+                Artificial Intelligence and Computing in an innovative way
+                in all theoretical and practical aspects. Original papers
                 are invited on Computer Networks, Network Protocols and Wireless
                 Networks, Data Communication Technologies, Network Security,
                 Cyber Security, Cyber Crime and Forensic Tools, Web
