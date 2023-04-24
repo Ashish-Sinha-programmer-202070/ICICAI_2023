@@ -51,8 +51,29 @@ export const contact = [
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
-  },
+  }
 ];
+
+export const editors = [
+  {
+    name: "Dr. Nitin Goyal",
+    desig: "Assistant Professor",
+    contact: ["+91-9896530089"],
+    email: "dr.nitin@cuh.ac.in",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
+  },
+
+  {
+    name: "Dr. Benay Kumar Ray",
+    desig: "Assistant Professor",
+    contact: ["+91-9903300558"],
+    email: "benayray@cuh.ac.in",
+    loc: "Central University of Haryana, Mahendragarh, India",
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/binay.jpg"
+  }
+]
+
 
 export const student = [
   {

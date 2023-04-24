@@ -44,11 +44,95 @@
       "loc": "Kurukshetra"
     },
     {
+      "name": "Dr. Neelam Roop Prakash",
+      "job": "Professor",
+      "dept": "ECE. Deptt.",
+      "univ": "Punjab Engineering College (PEC) Chandigarh",
+      "loc": "Chandigarh"
+    },
+    {
+      "name": "Dr. Satinder Bal Gupta",
+      "job": "Professor",
+      "dept": "CSE Deptt",
+      "univ": "IGU Meerpur",
+      "loc": "Rewari"
+    },
+    {
+      "name": "Dr. Savita Sheoran",
+      "job": "Professor",
+      "dept": "CSE Deptt",
+      "univ": "IGU Meerpur",
+      "loc": "Rewari"
+    },
+    {
+      "name": "Dr. Manoj Duhan",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "Deenbandhu Chhotu Ram University of science and technology",
+      "loc": "Murthal, Haryana"
+    },
+    {
+      "name": "Dr.Awadhesh Kumar Singh",
+      "job": "Professor",
+      "dept": "CSE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr.Rajesh Kumar Aggarwal",
+      "job": "Professor",
+      "dept": "CSE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr.Sanjay Jain",
+      "job": "Professor",
+      "dept": "CSE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr. O.P. Sahu",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr. R.K. Sharma ",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr. Umesh Ghanekar",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr. Rajoo Pandey",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "National Institute of Technology (NIT)",
+      "loc": "Kurukshetra"
+    },
+    {
       "name": "Dr. Mayank Dave",
       "job": "Professor",
       "dept": "CSE.Deptt.",
       "univ": "National Institute of Technology (NIT)",
       "loc": "Kurukshetra"
+    },
+    {
+      "name": "Dr. Deepak Bagai",
+      "job": "Professor",
+      "dept": "ECE Deptt",
+      "univ": "Punjab Engineering College (PEC)",
+      "loc": "Chandigarh"
     },
     {
       "name": "Dr. A.K.Singh",

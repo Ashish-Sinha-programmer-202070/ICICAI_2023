@@ -90,16 +90,17 @@ export const socialMediaLinks = [
   {
     icon: (props) => <IoLogoFacebook {...props} />,
     name: "facebook",
-    link: "/#",
+    link: "https://www.facebook.com/profile.php?id=100092279855936",
   },
   {
     icon: (props) => <IoLogoTwitter {...props} />,
     name: "twitter",
-    link: "/#",
+    link: "https://twitter.com/home",
   },
   {
     icon: (props) => <IoLogoInstagram {...props} />,
     name: "instagram",
-    link: "/#",
+    link: "https://www.instagram.com/icicai_conference_cuh/",
+
   },
 ];
