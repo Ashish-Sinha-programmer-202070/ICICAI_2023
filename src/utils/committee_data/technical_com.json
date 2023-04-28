@@ -2,914 +2,1676 @@
   "isCategory": false,
   "members": [
     {
-      "name": "Dr. Jimson Mathew",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Patna"
-    },
-    {
-      "name": "Dr. Preetam Kumar",
-      "job": "Professor",
-      "dept": "EE Deptt.",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Patna"
-    },
-    {
-      "name": "Dr. K.G Srinivasa",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Indian Institute of Information Technology (IIIT)",
-      "loc": "Raipur"
-    },
-    {
-      "name": "Dr. K. Ramesh",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Warangal"
-    },
-    {
-      "name": "Dr. Ananthanarayana V.S",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Surathkal"
-    },
-    {
-      "name": "Dr. Brahmjit Singh",
-      "job": "Professor",
-      "dept": "ECE.Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Neelam Roop Prakash",
-      "job": "Professor",
-      "dept": "ECE. Deptt.",
-      "univ": "Punjab Engineering College (PEC) Chandigarh",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Satinder Bal Gupta",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "IGU Meerpur",
-      "loc": "Rewari"
-    },
-    {
-      "name": "Dr. Savita Sheoran",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "IGU Meerpur",
-      "loc": "Rewari"
-    },
-    {
-      "name": "Dr. Manoj Duhan",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "Deenbandhu Chhotu Ram University of science and technology",
-      "loc": "Murthal, Haryana"
-    },
-    {
-      "name": "Dr.Awadhesh Kumar Singh",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr.Rajesh Kumar Aggarwal",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr.Sanjay Jain",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. O.P. Sahu",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. R.K. Sharma ",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Umesh Ghanekar",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Rajoo Pandey",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Mayank Dave",
-      "job": "Professor",
-      "dept": "CSE.Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Deepak Bagai",
-      "job": "Professor",
-      "dept": "ECE Deptt",
-      "univ": "Punjab Engineering College (PEC)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. A.K.Singh",
-      "job": "Professor",
-      "dept": "CSE.Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. Harsh K Verma",
-      "job": "Professor",
-      "dept": "CSE.Deptt.",
-      "univ": "Dr B R Ambedkar National Institute of Technology (NIT)",
-      "loc": "Jalandhar"
-    },
-    {
-      "name": "Dr. A L Sangal",
-      "job": "Professor",
-      "dept": "CSE.Deptt.",
-      "univ": "Dr B R Ambedkar National Institute of Technology (NIT)",
-      "loc": "Jalandhar"
-    },
-    {
-      "name": "Prof. Thi Thi Zin",
-      "job": "Professor",
-      "dept": "Faculty of Engineering",
-      "univ": "University of Miyazaki",
-      "loc": "Japan"
-    },
-    {
-      "name": "Dr. Shailendra Singh",
-      "job": "Professor & Head",
-      "dept": "CSE Deptt.",
-      "univ": "Punjab Engineering College (PEC) Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Rajesh Bhatia",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Punjab Engineering College (PEC) Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Shoba Bindhu",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Jawaharlal Nehru Technological University Anantapur",
-      "loc": ""
-    },
-    {
-      "name": "Dr. S.R.N Reddy",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
-      "loc": "Delhi"
-    },
-    {
-      "name": "Dr. Sanjeev Sofat",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Punjab  Engineering College (PEC)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Prof. Arif I. Sarwat",
-      "job": "Professor",
-      "dept": "Electrical & Computer Engineering",
-      "univ": "Florida International University",
-      "loc": "USA"
-    },
-    {
-      "name": "Dr. Suneeta Agarwal",
-      "job": "Professor & Head",
-      "dept": "CSE Deptt.",
-      "univ": "Motilal Nehru National Institute of Technology(MNNIT)",
-      "loc": "Allahabad"
-    },
-    {
-      "name": "Dr. Raman Maini",
-      "job": "Professor & Head",
-      "dept": "CSE Deptt.",
-      "univ": "Punjabi University",
-      "loc": "Patiala"
-    },
-    {
-      "name": "Dr. Amardeep Singh",
-      "job": "Professor & Head",
-      "dept": "CSE Deptt.",
-      "univ": "University College of Engineering",
-      "loc": "Punjabi University"
-    },
-    {
-      "name": "Dr. Lakhwinder Kaur",
-      "job": "Professor & Head",
-      "dept": "Computer Engineering",
-      "univ": "Punjabi University",
-      "loc": "Patiala"
-    },
-    {
-      "name": "Dr. Himanshu",
-      "job": "Professor",
-      "dept": "Computer Engineering",
-      "univ": "Punjabi University",
-      "loc": "Patiala"
-    },
-    {
-      "name": "Dr. Anish Jindal",
-      "job": "Assistant professor",
-      "dept": "Durham University",
-      "univ": "Durham",
-      "loc": "UK"
-    },
-    {
-      "name": "Dr. Krishan Kumar",
-      "job": "Professor",
-      "dept": "Information Technology",
-      "univ": "University Institute of Engineering and Technology (UIET)",
-      "loc": "Panjab University (PU)"
-    },
-    {
-      "name": "Dr. Sukhwinder Singh",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "University Institute of Engineering and Technology(UIET)",
-      "loc": "Panjab University (PU)"
-    },
-    {
-      "name": "Dr. Harish Kumar",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "University Institute of Engineering and Technology(UIET)",
-      "loc": "Panjab University (PU) Chandigarh"
-    },
-    {
-      "name": "Dr. Naveen Aggarwal",
-      "job": "Professor",
-      "dept": "CSE Deptt. University Institute of Engineering and Technology(UIET)",
-      "univ": "Panjab University (PU)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Ajay Mittal",
-      "job": "Professor",
-      "dept": "CSE Deptt. University Institute of Engineering and Technology(UIET)",
-      "univ": "Panjab University (PU)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Masoud Barati",
-      "job": "Assistant Professor",
-      "dept": "Carleton University",
-      "univ": "Canada",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Divya Bansal",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Punjab Engineering College(PEC)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Prof. Ali I. Maswood",
-      "job": "Associate Professor",
-      "dept": "School of Electrical & Electronic Engineering",
-      "univ": "Nanyang Technological University",
-      "loc": "Singapore"
-    },
-    {
-      "name": "Dr. Anil Kumar Tiwari",
-      "job": "Associate Professor",
-      "dept": "Department of Electrical Engineering",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Jodhpur"
-    },
-    {
-      "name": "Dr. B. S. Bansod",
-      "job": "Sr. Scientist",
-      "dept": "CSIR-CSIO",
-      "univ": "Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Surender Singh Saini",
-      "job": "Senior",
-      "dept": "Principal Scientist",
-      "univ": "CSIR-CSIO",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Ritesh Kumar",
-      "job": "Principal Scientist",
-      "dept": "CSIR-CSIO",
-      "univ": "Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Vinod Karar",
-      "job": "Chief Scientist",
-      "dept": "CSIR-CRRI",
-      "univ": "New Delhi",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Paramjeet Singh",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Giani Zail Singh Campus College of Engineering & Technology",
-      "loc": "Maharaja Ranjit Singh Punjab Technical University (MRSPTU)"
-    },
-    {
-      "name": "Dr. Surya Narayan Panda",
-      "job": "Professor and Director",
-      "dept": "CSE Deptt",
-      "univ": "Chitkara University",
-      "loc": "Punjab"
-    },
-    {
-      "name": "Dr. Rasmeet S Bali",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chandigarh University(CU)",
-      "loc": "Mohali"
-    },
-    {
-      "name": "Dr. Navneet Kaur Sehgal",
-      "job": "Professor",
-      "dept": "CSE Deptt",
-      "univ": "Chandigarh University(CU)",
-      "loc": "Mohali"
-    },
-    {
-      "name": "Dr. Gurpreet Kaur",
-      "job": "Associate Professor & Head",
-      "dept": "PG Department of Computer Science",
-      "univ": "SGGS College",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Jitender Kumar Chhabra",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Kuljeet Kaur",
-      "job": "\u00c9cole de Technologies Sup\u00e9rieure",
-      "dept": "Montreal",
-      "univ": "Canada",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Indu Chhabra",
-      "job": "Professor",
-      "dept": "Computer Science & Applications Deptt.",
+      "name": "Dr. Makhan Singh",
       "univ": "Panjab University",
-      "loc": "Chandigarh"
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "singhmakhan@pu.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Ravinder Agarwal",
-      "job": "Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Thapar Institute of Engineering and Technology(TIET)",
-      "loc": "Patiala"
-    },
-    {
-      "name": "Dr. Umit Demirbaga",
-      "job": "Post-Doctoral Researcher",
-      "dept": "University of Cambridge",
-      "univ": "UK",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Balwinder Singh",
-      "job": "Joint Director",
-      "dept": "Centre for Development of Advanced Computing (C-DAC)",
-      "univ": "Mohali",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Yajvender Pal Verma",
-      "job": "Professor",
-      "dept": "Electrical Engineering",
-      "univ": "University Institute of Engineering and Technology (UIET)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Anil Kumar",
-      "job": "Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Chandigarh College of Engineering and Technology (CCET)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Varun Gupta",
-      "job": "Professor",
-      "dept": "CSE Deptt. Chandigarh College of Engineering and Technology(CCET)",
-      "univ": "Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Sunil K. Singh",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chandigarh College of Engineering and Technology(CCET)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. Dheerendra Singh",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chandigarh College of Engineering and Technology(CCET)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr. R. B. Patel",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chandigarh College of Engineering and Technology(CCET)",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Dr.Devki Nandan Jha",
-      "job": "Post-Doctoral Researcher",
-      "dept": "University of Oxford",
-      "univ": "UK",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Amandeep Kaur",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Central University of Punjab (CUP)",
-      "loc": "Bathinda"
-    },
-    {
-      "name": "Dr. Samudaya Nanayakkara",
-      "job": "Senior Lecturer",
-      "dept": "University of Moratuwa",
-      "univ": "Sri Lanka",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Manoj Gaur",
-      "job": "Professor & Head",
-      "dept": "CSE Deptt.",
-      "univ": "Netaji Subhash University of Technology (NSUT-East Campus)",
-      "loc": "Delhi"
-    },
-    {
-      "name": "Dr. M. Gangadharappa",
-      "job": "Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Netaji Subhash University of Technology (NSUT-East Campus)",
-      "loc": "Delhi"
-    },
-    {
-      "name": "Dr. Vishal Bhatnagar",
-      "job": "Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Netaji Subhash University of Technology (NSUT-East Campus)",
-      "loc": "Delhi"
-    },
-    {
-      "name": "Dr. Prabhat Kumar",
-      "job": "Post-Doctoral Researcher",
-      "dept": "LUT University",
-      "univ": "Sweden",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Anil Vuppala",
-      "job": "Associate Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Indian Institute of Information Technology (IIIT)",
-      "loc": "Hyderabad"
-    },
-    {
-      "name": "Dr. Vikram Bali",
-      "job": "Director",
-      "dept": "IMS",
-      "univ": "Engineering College",
-      "loc": "Ghaziabad"
-    },
-    {
-      "name": "Dr. Rajarshi Mohapatre",
-      "job": "Associate Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Indian Institute of Information Technology (IIIT)",
-      "loc": "Raipur"
-    },
-    {
-      "name": "Dr. Satwinder Singh",
-      "job": "Associate Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Central University of Punjab (CUP)",
-      "loc": "Bathinda"
-    },
-    {
-      "name": "Dr. Rakesh Kumar",
-      "job": "Associate Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Central University of Haryana (CUH)",
-      "loc": "Mahendragarh"
-    },
-    {
-      "name": "Dr. Benudhar Sahu",
-      "job": "Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Institute of Technical Education and Research (ITER)",
-      "loc": "Bhubaneshwar"
-    },
-    {
-      "name": "Dr. Saad Mekhilef",
-      "job": "Professor",
-      "dept": "Swinburne University of Technology",
-      "univ": "Melbourne",
-      "loc": "Australia"
-    },
-    {
-      "name": "Dr. Arvind Kumar",
-      "job": "Associate Professor",
-      "dept": "ECE Deptt",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Kurukshetra"
-    },
-    {
-      "name": "Dr. E.S. Pilli",
-      "job": "Associate Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Malaviya National Institute of Technology (MNIT)",
-      "loc": "Jaipur"
-    },
-    {
-      "name": "Sahil Garg",
-      "job": "AI/ML Architect",
-      "dept": "Resilient Machine Learning Institute",
-      "univ": "Montreal",
-      "loc": "Canada"
-    },
-    {
-      "name": "Dr. Ramesh Kumar Sunkaria",
-      "job": "Associate Professor",
-      "dept": "ECE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Jalandhar"
-    },
-    {
-      "name": "Dr. Naresh Kumar",
-      "job": "Associate Professor ECE Deptt.",
-      "dept": "University Institute of Engineering and Technology (UIET)",
+      "name": "Dr. Akashdeep",
       "univ": "Panjab University",
-      "loc": "Chandigarh"
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "akashdeep@pu.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Ch.A.S. Murthy",
-      "job": "Associate Director",
-      "dept": "Centre for Development of Advanced Computing (C-DAC)",
-      "univ": "Hyderabad",
-      "loc": ""
+      "name": "Dr. Nirmal Kaur",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "nirmaljul19@gmail.com",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Sunny Behal",
+      "name": "Mr. Rohit Kumar",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "rklachotra@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Preeti Aggarwal",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "pree_agg@pu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ravreet Kaur",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "ravreet@yahoo.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr.Sumit Budhiraja",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "sumitbudhiraja@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Garima Joshi",
+      "univ": "Panjab University",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "joshi_garima5@yahoo.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Gazal",
+      "univ": "Gurugram University",
+      "loc": "Gurugram",
+      "job": "Assistant Professor",
+      "email": "gazal@gurugramuniversity.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Mahima Goyal",
+      "univ": "Gurugram University",
+      "loc": "Gurugram",
+      "job": "Assistant Professor",
+      "email": "mahima.goyal@gurugramuniversity.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Bhoop Singh",
+      "univ": "Gurugram University",
+      "loc": "Gurugram",
+      "job": "Assistant Professor",
+      "email": "bhoop@gurugramuniversity.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Raghuvinder",
+      "univ": "Chaudhary Devi Lal University",
+      "loc": "Sirsa",
+      "job": "Assistant Professor",
+      "email": "raghuvinder.bhardwaj@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Abhijnan Chakraborty",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "abhijnan@cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Abhilash Jindal",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "ajindal AT cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Rohan Paul",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "rohan AT cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Rijurekha Sen",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "riju AT cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Rahul Narain",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "narain AT cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Keerti Choudhary",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Delhi",
+      "job": "Assistant Professor",
+      "email": "keerti AT cse.iitd.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ajay Pratap",
+      "univ": "Indian Insititute of Technology (BHU)",
+      "loc": "Varansai",
+      "job": "Assistant Professor",
+      "email": "ajay.cse@iitbhu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Amrita Chaturvedi",
+      "univ": "Indian Insititute of Technology (BHU)",
+      "loc": "Varansai",
+      "job": "Assistant Professor",
+      "email": "amrita.cse@iitbhu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Lakshmanan Kailasam",
+      "univ": "Indian Insititute of Technology (BHU)",
+      "loc": "Varansai",
+      "job": "Assistant Professor",
+      "email": "lakshmanank.cse@iitbhu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Mayank Swarnkar",
+      "univ": "Indian Insititute of Technology (BHU)",
+      "loc": "Varansai",
+      "job": "Assistant Professor",
+      "email": "mayank.cse@iitbhu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Prasenjit Chanak",
+      "univ": "Indian Insititute of Technology (BHU)",
+      "loc": "Varansai",
+      "job": "Assistant Professor",
+      "email": "prasenjit.cse@iitbhu.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Parag Kumar Chaudhuri",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Bombay",
+      "job": "Assistant Professor",
+      "email": "paragc.cse@iitb.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Siddhartha Chaudhuri",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Bombay",
+      "job": "Assistant Professor",
+      "email": "sidch.cse@iitb.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Abir De",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Bombay",
+      "job": "Assistant Professor",
+      "email": "abir.cse@iitb.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Preethi Jyothi",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Bombay",
+      "job": "Assistant Professor",
+      "email": "pjyothi.cse@iitb.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Purushottam Kulkarni",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Bombay",
+      "job": "Assistant Professor",
+      "email": "puru.cse@iitb.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Fahad Panolan",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Hyderabad",
+      "job": "Assistant Professor",
+      "email": "fahad@cse.iith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Jyothi Vedurada",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Hyderabad",
+      "job": "Assistant Professor",
+      "email": "jyothiv@cse.iith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Karteek Sreenivasaiah",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Hyderabad",
+      "job": "Assistant Professor",
+      "email": "karteek@cse.iith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Maria Francis",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Hyderabad",
+      "job": "Assistant Professor",
+      "email": "mariaf@cse.iith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Nitin Saurabh",
+      "univ": "Indian Insititute of Technology",
+      "loc": "Hyderabad",
+      "job": "Assistant Professor",
+      "email": "nitin@cse.iith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ayon Chakraborty",
+      "univ": "Indian Insititute of Technology, Madras",
+      "loc": "Chennai",
+      "job": "Assistant Professor",
+      "email": "ayon@cse.iitm.ac .in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Nishad Kothari",
+      "univ": "Indian Insititute of Technology, Madras",
+      "loc": "Chennai",
+      "job": "Assistant Professor",
+      "email": "nishad@cse.iitm.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Chandrashekar Lakshminarayanan",
+      "univ": "Indian Insititute of Technology, Madras",
+      "loc": "Chennai",
+      "job": "Assistant Professor",
+      "email": "chandrashekar@cse.iitm.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Aishwarya Thiruvengadam",
+      "univ": "Indian Insititute of Technology, Madras",
+      "loc": "Chennai",
+      "job": "Assistant Professor",
+      "email": "aishwarya@cse.iitm.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Kartik Nagar",
+      "univ": "Indian Insititute of Technology, Madras",
+      "loc": "Chennai",
+      "job": "Assistant Professor",
+      "email": "nagark@cse.iitm.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Basant Agarwal",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "basant@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Prakash Choudhary",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
       "job": "Associate Professor",
-      "dept": "Head",
-      "univ": "CSE Deptt.",
-      "loc": "Shaheed Bhagat Singh State University"
+      "email": "prakash.choudhary@curaj.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. T. Shanmuganantham",
+      "name": "Dr. Pawan Singh",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
       "job": "Associate Professor",
-      "dept": "ECE Deptt.",
-      "univ": "Pondicherry University",
-      "loc": "Pondicherry"
+      "email": "pawan.singh@curaj.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Rishu Chhabra",
+      "name": "Dr. Nishtha Kesswani",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
       "job": "Associate Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chitkara University",
-      "loc": "Punjab"
+      "email": "nishtha@curaj.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Rajvir Singh",
+      "name": "Dr. Vidyottama Jain",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
       "job": "Associate Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Chitkara University",
-      "loc": "Punjab"
+      "email": "vidyottama.jain@curaj.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr.  C. Sharmeela",
+      "name": "Dr. Muzzammil Hussain",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "mhussain@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr. Ravi Saharan",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "ravisaharan@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Gaurav Somani",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "gaurav@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Tarun Kumar",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "tarun.kumar@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Abhay Kumar Rai",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "akrai@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr. Gaurav Meena",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "gaurav.meena@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ajay Indian",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "ajay.indian@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Krishna Kumar Mohbey",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "kmohbey@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Bhavna Saini",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "bhavna.saini@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Pritpal Singh",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "pritpal@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms. Mahima Choudhary",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "mahima.choudhary@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr. Narendra Chahar",
+      "univ": "Central University of Rajasthan",
+      "loc": "Rajastan",
+      "job": "Assistant Professor",
+      "email": "narendra.chahar@curaj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr Amit Garg",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "amitgarg@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr Amritpal Singh Yadav",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "aps@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr Anil Kumar Sharma",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "anilsharma@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr Dalpat Songara",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "dalpat@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Monalisa Meena",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "monalisameena@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mr Mukesh Khandelwal",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "mukeshkhandelwal@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Parvati Bhurani",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "parvatibhurani@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Payal Awwal",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "payalawwal@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Rajni Choudhary",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "rajnichoudhary@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Ruchi Bhaskar",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "rbhaskar@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Er Shyam Agrawal",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "ssa@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ms Taruna Khemwani",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "tarunakhemwani@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Varun Saxena",
+      "univ": "Govt. Mahila Engineering College",
+      "loc": "Ajmer",
+      "job": "Assistant Professor",
+      "email": "vps@gweca.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Akshay Deepak",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Associate Professor",
-      "dept": "EE Deptt.",
-      "univ": "Anna University",
-      "loc": "Chennai"
+      "email": "akshayd@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Naveen K. Chawla",
-      "job": "Faculty",
-      "dept": "Information Systems",
-      "univ": "University of Oklahoma",
-      "loc": "USA"
+      "name": "Amit Kumar Singh",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "",
+      "email": "amit.singh@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Nishant Kumar",
+      "name": "Abhay Kumar",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Assistant Professor",
-      "dept": "EE Deptt.",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Jodpur"
+      "email": "abhay.kumar@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Sujata Pal",
+      "name": "Anand Shanker Tewari",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Ropar"
+      "email": "anand@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Bharat Singh Rajpurohit",
+      "name": "Anil Kumar Dudyala",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Assistant Professor",
-      "dept": "School of Computing and Electrical Engineering",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Mandi"
+      "email": "ak@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Jeevanand Seshadrinath",
+      "name": "Anshul",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Assistant Professor",
-      "dept": "Department of Electrical Engineering",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Roorkee"
+      "email": "anshul.cs@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Ayman Noor",
+      "name": "Antriksh Goswami",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
       "job": "Assistant Professor",
-      "dept": "Taibah University",
-      "univ": "Saudi Arabia",
-      "loc": ""
+      "email": "antriksh.cs@nitp.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Abey Kuruvilla",
+      "name": "Anushree Tripathi",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "Assistant Professor",
+      "email": "anushree.cs@nitp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "B Balaji Naik",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "Assistant Professor",
+      "email": "balajinaik07.cs@nitp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Bhaskar Mondal",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "Assistant Professor",
+      "email": "bhaskar.cs@nitp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Devarani Devi Ningombam",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "Assistant Professor",
+      "email": "devarani.cs@nitp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Piyush Kumar",
+      "univ": "NATIONAL INSTITUTE OF TECHNOLOGY PATNA",
+      "loc": "Patna",
+      "job": "Assistant Professor",
+      "email": "piyush.cs@nitp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ajaya Kumar Dash",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "ajaya@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Anjali Mohapatra",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "anjali@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Bharati Mishra",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "bharati@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Hemanta Kumar Pati",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "hemanta@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Muktikanta Sahu",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "muktikanta@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Rakesh Kumar Lenka",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "rakeshkumar@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Sabyasachi Patra",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "sabyasachi@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Suraj Sharma",
+      "univ": "IIIT Bhubaneswar",
+      "loc": "Odisha",
+      "job": "Assistant Professor",
+      "email": "suraj@iiit-bh.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Amritpal Singh",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "apsingh@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Aruna Malik",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "malika@nitjj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr K P Sharma",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "sharmakp@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Nagendra Partap Singh",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "singhnp@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Rahul Aggarwal",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "aggarwalr@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Samayveer Singh",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "samays@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Urvashi",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "urvashi@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Jagdeep Kaur",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "kaurj@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Kunwal Pal",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "kunwarp@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Shveta Mahajan",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "mahajans@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Mamta",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "mamta@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Lalatendu Behra",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "beheral@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Avtar Singh",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "avtars@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Banalaxmi Brahma",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "brahmab@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Prashant Kumar",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "prashantk@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Shefali Arora Chouhan",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "chouhansa@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr Somesula Manoj Kumar",
+      "univ": "NIT Jalander",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "kumarsm@nitj.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Er. Amanjot Kaur",
+      "univ": "BABA BANDA SINGH BAHADUR ENGINEERING COLLEGE - FATEHGARH SAHIB",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "amanjot.kaur@bbsbec.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Khyati Marwah",
+      "univ": "BABA BANDA SINGH BAHADUR ENGINEERING COLLEGE - FATEHGARH SAHIB",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "khyati.marwah@bbsbec.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Jatinder Singh Saini",
+      "univ": "BABA BANDA SINGH BAHADUR ENGINEERING COLLEGE - FATEHGARH SAHIB",
+      "loc": "Punjab",
+      "job": "Assistant Professor",
+      "email": "jatinder.saini@bbsbec.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Pardeep Singh",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "pardeep@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Vijay Kumar",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "vijaykumarchahar@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Rajeev Kumar",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "rajeev@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Nitin Gupta",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "nitin@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Dharmendra Prasad Mahato",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "dpm@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Mohit Kumar",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "mohit@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Arun Kumar Yadav",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "ayadav@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Jyoti Srivastava",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "jyoti.s@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Priyanka",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "dr.priyanka@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Sangeeta Sharma",
+      "univ": "NIT Hamirpur",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "sangeetas@nith.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Narendra Kumar Dhar",
+      "univ": "IIT Mandi",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "narendra@iitmandi.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Moumita Das",
+      "univ": "IIT Mandi",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "moumita@iitmandi.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Himanshu Misra",
+      "univ": "IIT Mandi",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "himanshumisra@iitmandi.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Adarsh Patel",
+      "univ": "IIT Mandi",
+      "loc": "Himachal Pardesh",
+      "job": "Assistant Professor",
+      "email": "adarsh@iitmandi.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Basavaraj Talawar",
+      "univ": "NIT Karnataka",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "basavaraj@nitk.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "B. R. Chandavarkar",
+      "univ": "NIT Karnataka",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "brc@nitk.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Biswajit R Bhowmik",
+      "univ": "NIT Karnataka",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "brb@nitk.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Jeny Rajan",
+      "univ": "NIT Karnataka",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "jenyrajan@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Saumya Hegde",
+      "univ": "NIT Karnataka",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "saumya@nitk.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. SHIVAPUTRA",
+      "univ": "Dr. Ambedkar Institute of Technology",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "putrauvce@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. MEENAKSHI L RATHOD",
+      "univ": "Dr. Ambedkar Institute of Technology",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "meenakshi.chavan@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.TANUJA P PATGAR",
+      "univ": "Dr. Ambedkar Institute of Technology",
+      "loc": "Karnataka",
+      "job": "Assistant Professor",
+      "email": "tanujaharish13@gmail.com",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sandeep Kumar Sood",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
+      "job": "Associate Professor",
+      "email": "sandeepsood@nitkkr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ashutosh Kumar Singh",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Professor",
-      "dept": "Department of Business",
-      "univ": "University of Wisconsin. USA",
-      "loc": ""
+      "email": "ashutosh@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Prashant Agnihotri",
+      "name": "Sarika Jain",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Assistant Professor",
-      "dept": "Department of Electrical Engineering and Computer Science",
-      "univ": "Indian Institute of Technology (IIT)",
-      "loc": "Bhilai"
+      "email": "jasarika@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Farhad IIahi Bakhsh",
+      "name": "Kapil",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Assistant Professor",
-      "dept": "EE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Srinagar"
+      "email": "kapil@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Sunil Kumar",
-      "job": "Professor",
-      "dept": "Meerut Institute of Engineering and Technology (MIET)",
-      "univ": "Meerut",
-      "loc": "UP"
-    },
-    {
-      "name": "Dr. Jeetendra Singh",
+      "name": "Munish Bhatia",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Assistant Professor",
-      "dept": "ECE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Sikkim"
+      "email": "munish.bhatia@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Amandeep Singh",
+      "name": "Nidhi Gupta",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Assistant Professor",
-      "dept": "ECE Deptt.",
-      "univ": "National Institute of Technology (NIT)",
-      "loc": "Srinagar"
+      "email": "nidhi.gupta@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Gagangeet Singh Aujla",
+      "name": "Anshu Parashar",
+      "univ": "National Institute of Technology Kurukshetra",
+      "loc": "Kurukshetra ,Haryana",
       "job": "Assistant Professor",
-      "dept": "CSE.Deptt.",
-      "univ": "Durham University",
-      "loc": "United Kingdom"
+      "email": "anshuparashar@nitkkr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Aditya Bhardwaj",
+      "name": "Dr. A Sudarshan Chakravarthy",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "",
+      "email": "sudarshan.annadanam@nitc.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Arka Prokash Mazumdar",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Bennett University",
-      "loc": "Greater Noida"
+      "email": "apmazumdar.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Vineet Mehan",
-      "job": "Registrar & Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Maharaja Agrasen University",
-      "loc": "Baddi"
-    },
-    {
-      "name": "Dr. Shweta Sharma",
+      "name": "Dr. Ashish Kumar Tripathi",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Punjab Engineering College (PEC)",
-      "loc": "Chandigarh"
+      "email": "ashish.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Prof. Kim Tae Hyoung",
-      "job": "Professor",
-      "dept": "Nanyang Tech University",
-      "univ": "Singapore",
-      "loc": ""
-    },
-    {
-      "name": "Prof. Ernesto Limiti",
-      "job": "Professor",
-      "dept": "Electronics Engineering Department",
-      "univ": "University of Rome",
-      "loc": "TorVergata"
-    },
-    {
-      "name": "Dr. Chinmay Chakraborty",
+      "name": "Dr. Deepak Ranjan Nayak",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Birla Institute of Technology (BIT)",
-      "loc": "Mesra"
+      "email": "drnayak.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. T. Ilamparithi",
-      "job": "Assistant Teaching Professor",
-      "dept": "Electrical and Computer Engineering",
-      "univ": "University of Victoria",
-      "loc": "British Columbia"
-    },
-    {
-      "name": "Dr. Meenakshi Mittal",
+      "name": "Dr. Dinesh Kumar Tyagi",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Central University of Punjab (CUP)",
-      "loc": "Bathinda"
+      "email": "dktyagi.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Anu Chawla",
+      "name": "Dr. Jyoti Grover",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Post Graduate Government College for Girls",
-      "loc": "Sector 42"
+      "email": "jgrover.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Monika Gogna",
+      "name": "Dr. Lavika Goel",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "CSE Deptt.",
-      "univ": "Post Graduate Government College for Girls",
-      "loc": "Sector 42"
+      "email": "lavika.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Nilesh Vishwasrao Patil",
-      "job": "Lecturer",
-      "dept": "Government Polytechnic",
-      "univ": "Ahmednagar",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Satish Kumar",
-      "job": "Chief Scientist",
-      "dept": "Centre of Excellence for Intelligent Sensors and Systems (ISenS)",
-      "univ": "CSIR- CSIO",
-      "loc": "Chandigarh"
-    },
-    {
-      "name": "Prof. Tor A. Fjeldly",
-      "job": "Professor Emeritus",
-      "dept": "Department of Electronic Systems",
-      "univ": "Norwegian University of Science and Technology",
-      "loc": "Trondheim"
-    },
-    {
-      "name": "Dr. Naveen Bindra",
-      "job": "System Analyst",
-      "dept": "Postgraduate Institute of Medical Education and Research (PGMIER)",
-      "univ": "Chandigarh",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Rohit Handa",
-      "job": "Assistant Vice President",
-      "dept": "Citi Canada Technology Services",
-      "univ": "Canada",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Ritu Maheswari",
-      "job": "Chairperson & Director",
-      "dept": "eMANTHAN Inspiring Innovation",
-      "univ": "MP",
-      "loc": ""
-    },
-    {
-      "name": "Philip B. Kassey",
-      "job": "Managing Director",
-      "dept": "Petrasys Global Pvt. Ltd.",
-      "univ": "Mumbai",
-      "loc": ""
-    },
-    {
-      "name": "Prof. Dharam Singh Jat",
-      "job": "Professor",
-      "dept": "Department of Software Engineering",
-      "univ": "Namibia University of Science and Technology",
-      "loc": ""
-    },
-    {
-      "name": "Dr. Thiru Vasantham",
+      "name": "Dr. Mahipal Jadeja",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
       "job": "Assistant Professor",
-      "dept": "Durham University",
-      "univ": "UK",
-      "loc": ""
+      "email": "mahipaljadeja.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Er. Vipin Gupta",
-      "job": "Director",
-      "dept": "U-Net Solutions",
-      "univ": "Punjab",
-      "loc": ""
+      "name": "Dr. Ramesh Babu Battula",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
+      "job": "Assistant Professor",
+      "email": "rbbattula. cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Gaurav Kumar",
-      "job": "Director",
-      "dept": "Magma Research and Consultancy Services",
-      "univ": "Ambala Cantt.",
-      "loc": "Haryana"
+      "name": "Dr. Santosh Kumar Vipparthi",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
+      "job": "Assistant Professor",
+      "email": "skvipparthi@iitrpr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Ali Kashif Bashir",
-      "job": "Reader",
-      "dept": "Manchester Metropolitan University",
-      "univ": "UK",
-      "loc": ""
+      "name": "Dr. Satyendra Singh Chouhan",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
+      "job": "Assistant Professor",
+      "email": "sschouhan.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Baljit Singh",
-      "job": "Scientist",
-      "dept": "Central Scientific Instruments Organization",
-      "univ": "(CSIR-CSIO)",
-      "loc": "Chandigarh"
+      "name": "Dr. Smita Naval",
+      "univ": "Malaviya National Institute of Technology Jaipur",
+      "loc": "Jaipur",
+      "job": "Assistant Professor",
+      "email": "smita.cse@mnit.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Yashveer Yadav",
-      "job": "Senior Data Scientist",
-      "dept": "Datum Analysis",
-      "univ": "Jordan",
-      "loc": ""
+      "name": "Anu Mary Chacko",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "Assistant Professor",
+      "email": "anu.chacko@nitc.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Vineeta Ravindran",
-      "job": "Development Engineer",
-      "dept": "Scania",
-      "univ": "Sweden",
-      "loc": ""
+      "name": "Manoj Mishra",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "manoj.misra[at]cs.iitr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Saalim Qureshi",
-      "job": "Application Engineer",
-      "dept": "Quarbz Info Systems",
-      "univ": "Kanpur",
-      "loc": ""
+      "name": "Neetesh Kumar",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "neetesh[at]cs.iitr.ac.in",
+      "dept": "CSE"
     },
     {
-      "name": "Dr. Ehsan Toreini",
-      "job": "Lecturer",
-      "dept": "University of Surrey",
-      "univ": "UK",
-      "loc": ""
+      "name": "Shahbaz Khan",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "shahbaz.khan[at]cs.iitr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sudip Roy",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "sudip.roy[at]cs.iitr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Debiprasanna Sahoo",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "debiprasanna.sahoo[at]cs.iitr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Raksha Sharma",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "raksha.sharma[at]cs.iitr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Pravendra Singh",
+      "univ": "Indian Insitute of Technology, Roorkee",
+      "loc": "Uttarakhand",
+      "job": "Assistant Professor",
+      "email": "pravendra.singh[at]cs.iitr.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Amit Praseed",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "Assistant Professor",
+      "email": "amitpraseed@nitc.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Anand Babu.N.B",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "Assistant Professor",
+      "email": "anandbabu@nitc.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Anil Pinapati",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "Assistant Professor",
+      "email": "anilpinapati@nitc.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Arun Raj Kumar P",
+      "univ": "National Institute of Technology",
+      "loc": "Calicut",
+      "job": "Assistant Professor",
+      "email": "park@nitc.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sukanta Bhattacharjee",
+      "univ": "IIT Guwahati",
+      "loc": "Assam",
+      "job": "Assistant Professor",
+      "email": "sukantab @ iitg ⋅ ac ⋅ in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Rashmi Dutta Baruah",
+      "univ": "IIT Guwahati",
+      "loc": "Assam",
+      "job": "Assistant Professor",
+      "email": "r.duttabaruah @ iitg ⋅ ac ⋅ in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Moumita Patra",
+      "univ": "IIT Guwahati",
+      "loc": "Assam",
+      "job": "Assistant Professor",
+      "email": "moumita.patra @ iitg ⋅ ac ⋅ in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Manas Khatua",
+      "univ": "IIT Guwahati",
+      "loc": "Assam",
+      "job": "Assistant Professor",
+      "email": "manaskhatua @ iitg ⋅ ac ⋅ in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Benny George K",
+      "univ": "IIT Guwahati",
+      "loc": "Assam",
+      "job": "Assistant Professor",
+      "email": "ben@itg⋅ac⋅in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.K.Sitara",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "sitara@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.Sai Krishna Mothku",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "saikrishna@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.B.Shameedha Begum",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "shameedha@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.B.Nithya",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "nithya@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr.S.Jaya Nirmala",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "sjaya@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. R. Mohan",
+      "univ": "NIT Tiruchirapalli",
+      "loc": "Tamil Nadu",
+      "job": "Assistant Professor",
+      "email": "rmohan@nitt.edu",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ranvijay",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "ranvijay@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Rupesh Kumar Dewang",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "rupeshdewang@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Pragya Dwivedi",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "pragyadwi86@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Lieutenant (Dr.) Divya Kumar",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "divyak@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Dushyant Kumar Singh",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "dushyant@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Dinesh Singh",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "dinesh_singh@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Shashank Srivastava",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "shashank12@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Shashwati Banerjea",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "shashwati@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Abhinav Kumar",
+      "univ": "MNNIT Allahabad",
+      "loc": "Uttar Pardesh",
+      "job": "Assistant Professor",
+      "email": "abhik@mnnit.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Manjubala Bisi",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "manjubalabisi@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. I. Earnest Paul",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "iep@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. E. Suresh Babu",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "esbabu@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. M. Sandhya",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "msandhya@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. M. Srinivas",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "msv@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ilaiah Kavati",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "ilaiahkavati@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Ramalingaswamy Cheruku",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "rmlswamy@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Dr. Sanjaya Kumar Panda",
+      "univ": "NIT Wrangal",
+      "loc": "Telangana",
+      "job": "Assistant Professor",
+      "email": "sanjaya@nitw.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Abhijit Sharma",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "abhijit.sharma@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Ankush Acharyya",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "ankush.acharyya@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Deepanwita Das",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "deepanwita@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Jaydeep Howlader",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "jaydeep@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Mamata Dalui Chakraborty",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "mamata.dalui@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Monalisa Mandal",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "monalisa.mandal@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Nanda Dulal Jana",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "nandadulal@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sandip Karmakar",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "sandip.karmakar@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sanghita Bhattacharjee",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "sanghita.bhattacharjee@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Shyantani Maiti",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "shyantani.maiti@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Subhankar Majhi",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "subhankar@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Subhas Chandra Sahana",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "subhaschandra.sahana@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sujoy Saha",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "sujoy.saha@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Suvadip Batabyal",
+      "univ": "NIT Durgapur",
+      "loc": "Durgapur",
+      "job": "Assistant Professor",
+      "email": "suvadip.batabyal@cse.nitdgp.ac.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Padmavati",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "padmavati@pec.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Poonam Saini",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "poonamsaini@pec.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Manish Kumar",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "manishkumar@pec.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Rupali Verma",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "rupali@pec.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Shilpa",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "shilpa@pec.edu.in",
+      "dept": "CSE"
+    },
+    {
+      "name": "Sudesh Rani",
+      "univ": "Punjab Engineering College",
+      "loc": "Chandigarh",
+      "job": "Assistant Professor",
+      "email": "sudeshrani@pec.edu.in",
+      "dept": "CSE"
     }
   ]
 }

@@ -3,6 +3,7 @@ import { useLocation } from "react-router-dom";
 import PageHeader from "../../components/PageHeader";
 
 import technicalComData from "../../utils/committee_data/technical_com.json";
+import advisoryComData from "../../utils/committee_data/advisory_com.json";
 import organizingCommitteData from "../../utils/committee_data/organising_com.json";
 import { professorLogo } from "../../utils/GraphicContent";
 
@@ -260,7 +261,7 @@ const Committe = ({ path, setPageHeaderText }) => {
   switch (path) {
     case "advisory":
       setPageHeaderText("ADVISORY COMMITTEE");
-      return <CommitteCard data={technicalComData} />;
+      return <CommitteCard data={advisoryComData} />;
 
     case "organising":
       setPageHeaderText("ORGANISING COMMITTEE");
