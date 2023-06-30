@@ -122,10 +122,7 @@ export default function Home() {
                   >
                     Programme and Paper Presentaion Schedule
                   </Link>
-                  <Link
-                    to="https://fdp.nitttrchd.ac.in/icaiot2023/acceptedpaper.php"
-                    className="text-[14px] hover:text-slate-500 "
-                  >
+                  <Link to="#" className="text-[14px] hover:text-slate-500 ">
                     List of TENTATIVELY ACCEPTED PAPERS
                   </Link>
                 </div>
