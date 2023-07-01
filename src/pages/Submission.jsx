@@ -9,30 +9,25 @@ const SubmissionPage = () => {
         <h2>Requirements for submissions</h2>
         <ul className="list-disc text-justify pl-8 flex flex-col gap-2 mt-2 max-w-[120ch] break-words">
           <li>
-            The research papers can be submitted through{" "}
-            <a
-              style={{ color: "blue" }}
-              href="https://easychair.org/"
-            >
-              EasyChair{" "}
+            The research papers can be submitted at{" "}
+            <a style={{ color: "blue" }} href="#">
+              here{" "}
             </a>
           </li>
           <li>All submissions must be in English only.</li>
           <li>
             Authors are requested to submit implementation paper with
             significant contribution (length more than 12 pages) in PDF using
-            the Springer template.
-          </li>
-          <li>
-            Author(s) can refer{" "}
+            the{" "}
             <a
               style={{ color: "blue" }}
-              href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/"
+              href="https://jai.front-sci.com/index.php/jai/article/download/583/630"
             >
-              Springer Series Guidelines
+              template{" "}
             </a>{" "}
-            for preparing Camera Ready paper
+            .
           </li>
+
           <li>
             All references, figures, and tables should be numbered in sequence
             starting from 1 and MUST be duly cited / referred within the text.

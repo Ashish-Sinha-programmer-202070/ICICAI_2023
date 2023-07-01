@@ -4,7 +4,7 @@
     {
       "cp": "Chief Patron",
       "p":"Patron",
-      "cc": "Conference Chairs",
+      "cc": "Conference Chairman",
       "oc": "Organizing Committee"
     }
   ,
@@ -31,7 +31,7 @@
   "cc": [
     {
       "name":"Prof. Rakesh Kumar",
-      "job":"HOD of CSE",
+      "job":"Professor",
       "dept":"Computer Science & Engineering",
       "univ":"Central University of Haryana",
       "loc":"Mahendragarh, India",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Dr. Nitin Goyal",
-      "job": "Assistant Proffesor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -49,7 +49,7 @@
   "oc": [
     {
       "name": "Dr. Vishal Passricha",
-      "job": "Assistant Professor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -58,7 +58,7 @@
     
     {
       "name": "Mr. Anant Rajee Bara",
-      "job": "Assistant Professor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -67,7 +67,7 @@
     
     {
       "name": "Dr. Benay Kumar Ray",
-      "job": "Assistant Proffesor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -76,7 +76,7 @@
     
     {
       "name": "Dr. Sushil Kumar",
-      "job": "Assistant Proffesor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -85,7 +85,7 @@
     
     {
       "name": "Ms. Sangeeta",
-      "job": "Assistant Proffesor",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
@@ -95,7 +95,7 @@
     
     {
       "name": "Mr. Sandeep Singh Sikarwar",
-      "job": "Guest Lecturer",
+      "job": "",
       "dept": "Computer Science & Engineering",
       "univ": "Central University of Haryana",
       "loc": "Mahendragarh, India",
