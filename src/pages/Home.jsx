@@ -32,6 +32,10 @@ export default function Home() {
       <div className="bg-white mt-6">
         <div className="s-wrapper grid grid-cols-1 md:gap-10 md:grid-cols-7">
           <div className="col-span-5 px-4 md:px-0">
+            <marquee behavior="" direction="left">
+              Accepted papers will be published in "Journal of Autonomous
+              Intelligence"
+            </marquee>
             <h1 className="text-3xl font-bold">About CUH</h1>
             <hr />
             <div className="mt-4 text-justify">

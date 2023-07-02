@@ -2,15 +2,15 @@
   "members": [
     {
       "name": "Prof. B.V. Ramana Reddy",
-      "depatment": "Director, NIT ",
+      "depatment": "Director NIT, Kurukshetra",
       "location": "NIT Kurukshetra",
-      "talk": "Title of invited talk:",
+      "talk": "Title of invited talk: Intellectual, Emotional and Spiritual Intelligence",
       "cv_link": "https://nitkkr.ac.in/?page_id=707",
       "image": "https://nitkkr.ac.in/wp-content/uploads/2022/02/directorim-260x300.jpg"
     },
     {
       "name": "Prof. Lalit Kumar Awasthi",
-      "depatment": "IEEE Senior Member",
+      "depatment": "Director NIT, Uttarakhand",
       "location": "NIT Uttarakhand",
       "talk": "Title of invited talk:",
       "cv_link": "https://nituk.ac.in/index.php/director",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Dr. Ashutosh Kumar Singh",
-      "depatment": "Department of Computer Applications",
+      "depatment": "Director IIIT, Bhopal",
       "location": "NIT Kurukshetra",
       "talk": "Title of invited talk: Cloud Security",
       "cv_link": "https://fdp.nitttrchd.ac.in/icaiot2023/downloads/manimadhukar.pdf",
