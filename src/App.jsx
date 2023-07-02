@@ -12,11 +12,12 @@ import ContactUs from "./pages/ContactUs";
 import ComLayout from "./pages/committee/ComLayout";
 // import Speakers from "./pages/Speakers";
 import Submission from "./pages/Submission";
+import Registration from "./pages/Registration";
 import Student from "./pages/StudentCorrdinator";
 import Schedule from "./pages/ProgramSchedule";
 import ConVenue from "./pages/ConferenceInfo";
-import Speaker from './pages/Speaker'
-import Editor from './pages/editors'
+import Speaker from "./pages/Speaker";
+import Editor from "./pages/editors";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -40,6 +41,7 @@ function App() {
         {/* <Route path="/invited-speakers" element={<Speakers />} /> */}
         <Route path="/student-coordinators" element={<Student />} />
         <Route path="/submission" element={<Submission />} />
+        <Route path="/registration" element={<Registration />} />
         <Route path="/speaker" element={<Speaker />} />
         <Route path="/proceeding-editors" element={<Editor />} />
         <Route path="/program-schedule" element={<Schedule />} />

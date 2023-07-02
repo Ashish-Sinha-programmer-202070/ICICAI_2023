@@ -23,7 +23,7 @@ const SubmissionPage = () => {
               style={{ color: "blue" }}
               href="https://jai.front-sci.com/index.php/jai/article/download/583/630"
             >
-              template{" "}
+              sample{" "}
             </a>{" "}
             .
           </li>
@@ -54,6 +54,25 @@ const SubmissionPage = () => {
           <li>
             Plagiarized submissions will not be accepted and only the author(s)
             is responsible for any plagiarized submission
+          </li>
+          <li>
+            The text should be single-spaced; use a 12-point font; employs
+            italics, rather than underlining (except with URL addresses); and
+            all illustrations, figures, and tables are placed within the text at
+            the appropriate points, rather than at the end.
+          </li>
+          <li>Wherever available, URLs for the references must be provided.</li>
+          <li>
+            The submission file must be in Microsoft Word document file format.
+          </li>
+          <li>
+            For More on Author guidelines, please follow the{" "}
+            <a
+              style={{ color: "blue" }}
+              href="https://jai.front-sci.com/index.php/jai/about/submissions#authorGuidelines"
+            >
+              link{" "}
+            </a>{" "}
           </li>
         </ul>
         {/* <a
