@@ -15,6 +15,10 @@ export default function CallForPapers() {
         <div className="s-wrapper px-4 md:px-0">
           <div className="grid grid-cols-1 gap-4 mb-4 md:grid-cols-3">
             <div className="text-justify col-span-2 font-sanchez">
+              <marquee behavior="" direction="left">
+                Accepted papers will be published in "Journal of Autonomous
+                Intelligence"
+              </marquee>
               <p className="mb-4">
                 1st International Conference on Innovative Computing and
                 Artificial Intelligence (ICICAI'23) will provide an excellent

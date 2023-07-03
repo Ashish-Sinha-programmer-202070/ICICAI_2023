@@ -37,21 +37,21 @@ export const callForPapers = [
 export const contact = [
   {
     name: "Dr. Rakesh Kumar",
-    desig: " Professor and HOD",
+    desig: " Professor",
     contact: ["0172-2759787", "+91-9416327669"],
     email: "hodcse@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/rakesh_kumar.jpg"
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/rakesh_kumar.jpg",
   },
 
   {
     name: "Dr. Nitin Goyal",
-    desig: "Assistant Professor",
+    desig: "",
     contact: ["+91-9896530089"],
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
-  }
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg",
+  },
 ];
 
 export const editors = [
@@ -61,7 +61,7 @@ export const editors = [
     contact: ["+91-9896530089"],
     email: "dr.nitin@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg"
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/Dr%20Nitin%20Goyal.jpg",
   },
 
   {
@@ -70,10 +70,9 @@ export const editors = [
     contact: ["+91-9903300558"],
     email: "benayray@cuh.ac.in",
     loc: "Central University of Haryana, Mahendragarh, India",
-    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/binay.jpg"
-  }
-]
-
+    img: "https://www.cuh.ac.in/admin/uploads/department/faculty/csengfac/binay.jpg",
+  },
+];
 
 export const student = [
   {
@@ -116,8 +115,7 @@ export const student = [
     email: "gautaumgiri@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
-  }
-
+  },
 ];
 
 export const submissionRequirements = {

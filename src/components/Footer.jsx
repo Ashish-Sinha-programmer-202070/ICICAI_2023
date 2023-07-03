@@ -45,7 +45,7 @@ export default function Footer() {
                           let elem_link = elem
                             .toLowerCase()
                             .trim()
-                            .replace(" ", "-");
+                            .replaceAll(" ", "-");
                           return (
                             <li
                               key={j}
@@ -76,13 +76,17 @@ export default function Footer() {
             . All Rights Reserved.
           </span>
           <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0 pb-2">
-            <SocialButton href={"https://www.facebook.com/profile.php?id=100092279855936"}>
+            <SocialButton
+              href={"https://www.facebook.com/profile.php?id=100092279855936"}
+            >
               <IoLogoFacebook className="h-6 w-6 text-slate-900 hover:text-slate-400" />
             </SocialButton>
             <SocialButton href={"https://twitter.com/home"}>
               <IoLogoTwitter className="h-6 w-6 text-slate-900 hover:text-slate-400" />
             </SocialButton>
-            <SocialButton href={"https://www.instagram.com/icicai_conference_cuh"}>
+            <SocialButton
+              href={"https://www.instagram.com/icicai_conference_cuh"}
+            >
               <IoLogoInstagram className="h-6 w-6 text-slate-900 hover:text-slate-400" />
             </SocialButton>
             <SocialButton href={""}>
