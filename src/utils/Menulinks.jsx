@@ -18,17 +18,13 @@ export const menus = [
   },
   {
     name: "speakers",
-    link: "speaker",
+    link: "speakers",
     // children: ["Invited Speakers"],
   },
   {
     name: "Attending",
     link: "#",
-    children: [
-      "Submission",
-      "Registration",
-      "Proceeding Editors",
-    ],
+    children: ["Submission", "Registration", "Proceeding Editors"],
   },
   {
     name: "Conference info",
@@ -37,8 +33,8 @@ export const menus = [
       "Conference Venue",
       "Sponsors",
       "Program Schedule",
-
-      "Contact us"],
+      "Contact us",
+    ],
   },
   {
     name: "Student coordinators",
@@ -52,7 +48,7 @@ export const footerMenus = [
     name: "committee",
     link: "committee",
     children: [
-      "Invited Speakers",
+      "Speakers",
       "Advisory Committee",
       "Organising Committee",
       "Technical Program Committee",
@@ -71,7 +67,12 @@ export const footerMenus = [
   {
     name: "Conference info",
     link: "conference-info",
-    children: ["Venue Info.", "Proceeding Editors", "Sponsors", "Contact us"],
+    children: [
+      "Conference Venue",
+      "Proceeding Editors",
+      "Sponsors",
+      "Contact us",
+    ],
   },
   {
     name: "Student Coordinators",
@@ -101,6 +102,5 @@ export const socialMediaLinks = [
     icon: (props) => <IoLogoInstagram {...props} />,
     name: "instagram",
     link: "https://www.instagram.com/icicai_conference_cuh/",
-
   },
 ];

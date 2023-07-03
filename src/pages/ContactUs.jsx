@@ -26,9 +26,7 @@ export default function ContactUs() {
                   />
 
                   <div>
-                    <h3 class="text-lg font-medium text-black">
-                      {elem.name}
-                    </h3>
+                    <h3 class="text-lg font-medium text-black">{elem.name}</h3>
 
                     <div class="flow-root">
                       <ul class="-m-1 flex flex-wrap">
@@ -42,36 +40,32 @@ export default function ContactUs() {
                   </div>
                 </div>
                 <div className="flex items-center flex-wrap gap-4">
-
                   <div className="mt-4 w-full">
                     <div className="flex gap-4">
                       <FaUniversity className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
                       <div>
                         <p>{elem.loc}</p>
-
-
                       </div>
-
                     </div>
                   </div>
                   <div className="mt-0  w-full">
                     <div className="flex gap-4">
                       <FaPhoneAlt className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
-                      {
-                        elem.contact.length === 1 ? <div>
-                          <p>{elem.contact[0]}
-                          </p>
-
-                        </div> : <div>
-                          <p>{elem.contact[0]}
-                            <span
-                              className="font-extrabold text-transparent text-1xl bg-clip-text bg-gradient-to-t px-2 from-green-300 via-blue-500 to-purple-600">|</span>
-                            <span > {elem.contact[1]} </span></p>
-
-
+                      {elem.contact.length === 1 ? (
+                        <div>
+                          <p>{elem.contact[0]}</p>
                         </div>
-                      }
-
+                      ) : (
+                        <div>
+                          <p>
+                            {elem.contact[0]}
+                            <span className="font-extrabold text-transparent text-1xl bg-clip-text bg-gradient-to-t px-2 from-green-300 via-blue-500 to-purple-600">
+                              |
+                            </span>
+                            <span> {elem.contact[1]} </span>
+                          </p>
+                        </div>
+                      )}
                     </div>
                   </div>
 
@@ -80,10 +74,7 @@ export default function ContactUs() {
                       <IoMail className="h-8 w-8 p-1 rounded-full border-slate-500 border text-slate-700" />
                       <div>
                         <p>{elem.email}</p>
-
-
                       </div>
-
                     </div>
                   </div>
                 </div>
@@ -92,7 +83,6 @@ export default function ContactUs() {
           );
         })}
       </div>
-
     </div>
   );
 }
