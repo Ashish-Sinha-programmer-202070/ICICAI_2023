@@ -79,7 +79,7 @@ export const student = [
     name: "Ashish Sinha",
     department: " Computer Science and Engineering",
     contact: ["9905301131"],
-    email: "ashishsinha741.com",
+    email: "ashishsinha741@gmail.com",
     loc: "Central University of Haryana, Mahendragarh, India",
     img: "http://bytecodelearners.cuh.ac.in/bytecode-server/storage/app/public/members-image/ashishsinha741@gmail.com.jpg",
   },
