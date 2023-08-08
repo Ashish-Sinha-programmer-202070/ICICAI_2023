@@ -16,8 +16,7 @@ export default function CallForPapers() {
           <div className="grid grid-cols-1 gap-4 mb-4 md:grid-cols-3">
             <div className="text-justify col-span-2 font-sanchez">
               <marquee behavior="" direction="left">
-                Accepted papers will be published in "Journal of Autonomous
-                Intelligence"
+                Accepted papers will be published in "SCOPUS database"
               </marquee>
               <p className="mb-4">
                 1st International Conference on Innovative Computing and
@@ -38,8 +37,7 @@ export default function CallForPapers() {
               </p>
               <p>
                 The Accepted papers in this conference will be published on{" "}
-                <b className="font-bold">Journal of Autonomous Intelligence</b>{" "}
-                <br />
+                <b className="font-bold">SCOPUS database</b> <br />
                 eISSN: 2630-5046
               </p>
             </div>

@@ -5,8 +5,7 @@ const ImportantDatesPage = () => {
     <>
       <div className="flex justify-center items-center flex-col">
         <marquee className="mb-10" behavior="" direction="left">
-          Accepted papers will be published in "Journal of Autonomous
-          Intelligence"
+          Accepted papers will be published in "SCOPUS database"
         </marquee>
         <div className="mt-0 mb-10 font-sanchez">
           <h2 className="text-xl text-slate-900">Important Dates</h2>

@@ -6,8 +6,7 @@ const SubmissionPage = () => {
   return (
     <div className="s-wrapper px-4 md:px-0 relative">
       <marquee behavior="" direction="left">
-        Accepted papers will be published in "Journal of Autonomous
-        Intelligence"
+        Accepted papers will be published in "SCOPUS database"
       </marquee>
       <div className="flex flex-col gap-4 card px-4 py-6 justify-center items-center">
         <h2>Requirements for submissions</h2>
