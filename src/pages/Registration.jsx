@@ -4,11 +4,10 @@ const RegistrationPage = () => {
   return (
     <div className="flex justify-center flex-col items-center">
       <marquee className="mb-4" behavior="" direction="left">
-        Accepted papers will be published in "Journal of Autonomous
-        Intelligence"
+        Accepted papers will be published in "SCOPUS database"
       </marquee>
       <h2 class="mb-3 text-3xl font-extrabold tracking-tight text-gray-900">
-        Journal of Autonomous Intelligence
+        SCOPUS database
       </h2>
       <p class="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
         Registration Fee Details
